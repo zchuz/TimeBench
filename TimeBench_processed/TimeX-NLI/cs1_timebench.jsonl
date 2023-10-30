@@ -1,0 +1,500 @@
+{"Premise": "In Sep, he will be sworn in as the Prime Minister.", "Hypothesis": "Before October, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "Before 8 PM, the startup received funding.", "Hypothesis": "Before 8 AM, the startup received funding.", "Label": "Neutral"}
+{"Premise": "The court case began in Jan.", "Hypothesis": "The court case began before February.", "Label": "Entailment"}
+{"Premise": "Before June, Pixar released an animated film.", "Hypothesis": "After Sep, Pixar released an animated film.", "Label": "Contradiction"}
+{"Premise": "The government issued new labor policies in Jun.", "Hypothesis": "The government issued new labor policies before Feb.", "Label": "Contradiction"}
+{"Premise": "At 19:00, the storm began.", "Hypothesis": "After 18:00, the storm began.", "Label": "Entailment"}
+{"Premise": "I submitted my PhD dissertation before 18th.", "Hypothesis": "I submitted my PhD dissertation after 12th.", "Label": "Neutral"}
+{"Premise": "I graduated after November.", "Hypothesis": "I graduated after December.", "Label": "Neutral"}
+{"Premise": "Before 14th August 1912, Lindsey will pay off her loans.", "Hypothesis": "Before 2nd August 1909, Lindsey will pay off her loans.", "Label": "Neutral"}
+{"Premise": "The court case will begin on Wednesday.", "Hypothesis": "The court case will begin before Saturday.", "Label": "Entailment"}
+{"Premise": "After 18th, the startup will receive funding.", "Hypothesis": "After 13th, the startup will receive funding.", "Label": "Entailment"}
+{"Premise": "At 13:00, I submitted my PhD dissertation.", "Hypothesis": "After 5 PM, I submitted my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding after 1957.", "Hypothesis": "The startup will receive funding before 1982.", "Label": "Neutral"}
+{"Premise": "I will start my bachelors on 12th December 1977.", "Hypothesis": "I will start my bachelors after 23rd Dec 1962.", "Label": "Entailment"}
+{"Premise": "In October 1935, the government issued new labor policies.", "Hypothesis": "After November 1926, the government issued new labor policies.", "Label": "Entailment"}
+{"Premise": "On 9th Jul 1987, Pixar will release an animated film.", "Hypothesis": "After 1st May 1938, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "In February 1953, I will start my bachelors.", "Hypothesis": "After Oct 1938, I will start my bachelors.", "Label": "Entailment"}
+{"Premise": "He was sworn in as the Prime Minister after Aug.", "Hypothesis": "He was sworn in as the Prime Minister after November.", "Label": "Neutral"}
+{"Premise": "In Mar, their tour of Europe will start.", "Hypothesis": "Before March, their tour of Europe will start.", "Label": "Contradiction"}
+{"Premise": "The court case began in Aug.", "Hypothesis": "The court case began after Apr.", "Label": "Entailment"}
+{"Premise": "On 23rd, they became the top football team.", "Hypothesis": "After 16th, they became the top football team.", "Label": "Entailment"}
+{"Premise": "Before Sep 1999, I started my bachelors.", "Hypothesis": "After Oct 1927, I started my bachelors.", "Label": "Neutral"}
+{"Premise": "After 27th, the startup received funding.", "Hypothesis": "After 16th, the startup received funding.", "Label": "Entailment"}
+{"Premise": "I will graduate in May 1955.", "Hypothesis": "I will graduate before November 1900.", "Label": "Contradiction"}
+{"Premise": "Before 21st, their tour of Europe will start.", "Hypothesis": "After 8th, their tour of Europe will start.", "Label": "Neutral"}
+{"Premise": "I submitted my PhD dissertation after Wednesday.", "Hypothesis": "I submitted my PhD dissertation after Monday.", "Label": "Entailment"}
+{"Premise": "At 7 AM, the government issued new labor policies.", "Hypothesis": "Before 12 PM, the government issued new labor policies.", "Label": "Entailment"}
+{"Premise": "After 15th, the startup will receive funding.", "Hypothesis": "Before 22nd, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "Before Jun, I will graduate.", "Hypothesis": "Before Aug, I will graduate.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents at 11 AM.", "Hypothesis": "Robin visited her parents after 19:00.", "Label": "Contradiction"}
+{"Premise": "Robin will visit her parents after 20:00.", "Hypothesis": "Robin will visit her parents after 8 PM.", "Label": "Neutral"}
+{"Premise": "After Apr, I submitted my PhD dissertation.", "Hypothesis": "After August, I submitted my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "They will become the top football team on 7th October 1970.", "Hypothesis": "They will become the top football team before 13th November 1959.", "Label": "Contradiction"}
+{"Premise": "He was sworn in as the Prime Minister before 13th Jul 1950.", "Hypothesis": "He was sworn in as the Prime Minister after 8th Oct 1947.", "Label": "Neutral"}
+{"Premise": "Before 12th Apr 1970, I will submit my PhD dissertation.", "Hypothesis": "After 5th November 1977, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "Before 2nd Feb 1905, I will submit my PhD dissertation.", "Hypothesis": "After 4th September 1947, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding in August 1900.", "Hypothesis": "The startup will receive funding before July 1923.", "Label": "Entailment"}
+{"Premise": "On 20th Feb 1939, I will start my bachelors.", "Hypothesis": "Before 8th Mar 1900, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "After 13th February 1939, I graduated.", "Hypothesis": "After 17th March 1975, I graduated.", "Label": "Neutral"}
+{"Premise": "I graduated on 2nd.", "Hypothesis": "I graduated before 13th.", "Label": "Entailment"}
+{"Premise": "I submitted my PhD dissertation after 11th.", "Hypothesis": "I submitted my PhD dissertation before 2nd.", "Label": "Contradiction"}
+{"Premise": "Lindsey will pay off her loans after Jun 1966.", "Hypothesis": "Lindsey will pay off her loans before Aug 1971.", "Label": "Neutral"}
+{"Premise": "Before Tuesday, the court case began.", "Hypothesis": "Before Sunday, the court case began.", "Label": "Neutral"}
+{"Premise": "Pixar released an animated film after 7th August 1983.", "Hypothesis": "Pixar released an animated film after 19th Oct 1923.", "Label": "Entailment"}
+{"Premise": "Before Feb, the startup will receive funding.", "Hypothesis": "After Aug, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "Before 2nd September 1915, the startup received funding.", "Hypothesis": "Before 11th November 1954, the startup received funding.", "Label": "Entailment"}
+{"Premise": "In February 1918, Pixar will release an animated film.", "Hypothesis": "After May 1914, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "After Wednesday, he will be sworn in as the Prime Minister.", "Hypothesis": "After Monday, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "On 22nd Apr 1927, the startup received funding.", "Hypothesis": "After 9th Jun 1996, the startup received funding.", "Label": "Contradiction"}
+{"Premise": "After Monday, he will be sworn in as the Prime Minister.", "Hypothesis": "After Sunday, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "Pixar released an animated film before January.", "Hypothesis": "Pixar released an animated film after April.", "Label": "Contradiction"}
+{"Premise": "After 25th, the storm began.", "Hypothesis": "After 21st, the storm began.", "Label": "Entailment"}
+{"Premise": "On 28th May 1967, I graduated.", "Hypothesis": "Before 23rd October 1920, I graduated.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation in Jun 1924.", "Hypothesis": "I will submit my PhD dissertation after Oct 1940.", "Label": "Contradiction"}
+{"Premise": "Before November 1967, I submitted my PhD dissertation.", "Hypothesis": "After October 1997, I submitted my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "In 1958, the government will issue new labor policies.", "Hypothesis": "After 1993, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "On Tuesday, I submitted my PhD dissertation.", "Hypothesis": "After Thursday, I submitted my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "The startup received funding on 28th Feb 1902.", "Hypothesis": "The startup received funding before 22nd Feb 1941.", "Label": "Entailment"}
+{"Premise": "In Jun, Pixar released an animated film.", "Hypothesis": "Before Feb, Pixar released an animated film.", "Label": "Contradiction"}
+{"Premise": "On Wednesday, he will be sworn in as the Prime Minister.", "Hypothesis": "Before Monday, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "They will become the top football team before 20th Jun 1908.", "Hypothesis": "They will become the top football team after 15th Dec 1963.", "Label": "Contradiction"}
+{"Premise": "Before 13:00, he will be sworn in as the Prime Minister.", "Hypothesis": "After 1 PM, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "I will graduate on Wednesday.", "Hypothesis": "I will graduate after Sunday.", "Label": "Entailment"}
+{"Premise": "The court case will begin after 10:00.", "Hypothesis": "The court case will begin after 22:00.", "Label": "Neutral"}
+{"Premise": "Before 1937, Pixar released an animated film.", "Hypothesis": "After 1912, Pixar released an animated film.", "Label": "Neutral"}
+{"Premise": "The startup received funding after 08:00.", "Hypothesis": "The startup received funding before 02:00.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies after 11th July 1932.", "Hypothesis": "The government will issue new labor policies before 4th Oct 1918.", "Label": "Contradiction"}
+{"Premise": "The court case will begin in March.", "Hypothesis": "The court case will begin after Jul.", "Label": "Contradiction"}
+{"Premise": "Before 8th July 1968, Pixar will release an animated film.", "Hypothesis": "After 11th May 1911, Pixar will release an animated film.", "Label": "Neutral"}
+{"Premise": "On 19th March 1984, he was sworn in as the Prime Minister.", "Hypothesis": "Before 18th October 1900, he was sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors before September 1909.", "Hypothesis": "I started my bachelors after March 1961.", "Label": "Contradiction"}
+{"Premise": "Pixar released an animated film on Sunday.", "Hypothesis": "Pixar released an animated film before Sunday.", "Label": "Contradiction"}
+{"Premise": "The government issued new labor policies before 16th.", "Hypothesis": "The government issued new labor policies before 21st.", "Label": "Entailment"}
+{"Premise": "After 12 PM, the government will issue new labor policies.", "Hypothesis": "After 18:00, the government will issue new labor policies.", "Label": "Neutral"}
+{"Premise": "On 9th, they will become the top football team.", "Hypothesis": "Before 18th, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "On 5th Oct 1909, Lindsey will pay off her loans.", "Hypothesis": "After 22nd January 1957, Lindsey will pay off her loans.", "Label": "Contradiction"}
+{"Premise": "The government issued new labor policies in May.", "Hypothesis": "The government issued new labor policies before July.", "Label": "Entailment"}
+{"Premise": "The train from Seattle will depart before 09:00.", "Hypothesis": "The train from Seattle will depart before 20:00.", "Label": "Entailment"}
+{"Premise": "I will start my bachelors before May 1970.", "Hypothesis": "I will start my bachelors before April 1927.", "Label": "Neutral"}
+{"Premise": "After 10:00, the grocery store closed.", "Hypothesis": "Before 1 PM, the grocery store closed.", "Label": "Neutral"}
+{"Premise": "They will become the top football team in August 1934.", "Hypothesis": "They will become the top football team after December 1972.", "Label": "Contradiction"}
+{"Premise": "I will start my bachelors on 18th Jun 1968.", "Hypothesis": "I will start my bachelors before 11th May 1983.", "Label": "Entailment"}
+{"Premise": "The grocery store will close after 12 AM.", "Hypothesis": "The grocery store will close before 01:00.", "Label": "Neutral"}
+{"Premise": "After May, their tour of Europe started.", "Hypothesis": "Before July, their tour of Europe started.", "Label": "Neutral"}
+{"Premise": "In Apr, I will submit my PhD dissertation.", "Hypothesis": "After Aug, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "In Jan, I submitted my PhD dissertation.", "Hypothesis": "Before June, I submitted my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "I graduated on 20th February 1928.", "Hypothesis": "I graduated before 12th Sep 1914.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies before 23rd February 1926.", "Hypothesis": "The government will issue new labor policies before 24th April 1951.", "Label": "Entailment"}
+{"Premise": "In Dec 1944, the startup received funding.", "Hypothesis": "Before Mar 1932, the startup received funding.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister before 4 PM.", "Hypothesis": "He will be sworn in as the Prime Minister after 13:00.", "Label": "Neutral"}
+{"Premise": "I will graduate before January.", "Hypothesis": "I will graduate before Jul.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation in 1915.", "Hypothesis": "I will submit my PhD dissertation after 1961.", "Label": "Contradiction"}
+{"Premise": "Before Oct 1917, the startup will receive funding.", "Hypothesis": "Before May 1992, the startup will receive funding.", "Label": "Entailment"}
+{"Premise": "The train from Seattle departed after 20:00.", "Hypothesis": "The train from Seattle departed before 13:00.", "Label": "Contradiction"}
+{"Premise": "The grocery store closed before 6 AM.", "Hypothesis": "The grocery store closed before 00:00.", "Label": "Neutral"}
+{"Premise": "In June, Lindsey will pay off her loans.", "Hypothesis": "After May, Lindsey will pay off her loans.", "Label": "Entailment"}
+{"Premise": "In June 1950, I submitted my PhD dissertation.", "Hypothesis": "After March 1985, I submitted my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "After January, the court case will begin.", "Hypothesis": "After March, the court case will begin.", "Label": "Neutral"}
+{"Premise": "Lindsey will pay off her loans after Oct 1978.", "Hypothesis": "Lindsey will pay off her loans after Feb 1905.", "Label": "Entailment"}
+{"Premise": "On Friday, the court case began.", "Hypothesis": "Before Tuesday, the court case began.", "Label": "Contradiction"}
+{"Premise": "Pixar released an animated film on 5th July 1950.", "Hypothesis": "Pixar released an animated film after 10th December 1933.", "Label": "Entailment"}
+{"Premise": "Before Dec 1946, Pixar released an animated film.", "Hypothesis": "After May 1910, Pixar released an animated film.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies at 9 PM.", "Hypothesis": "The government will issue new labor policies before 9 AM.", "Label": "Contradiction"}
+{"Premise": "Before October, the court case began.", "Hypothesis": "Before July, the court case began.", "Label": "Neutral"}
+{"Premise": "Before 10 AM, the match between India and Australia began.", "Hypothesis": "After 6 PM, the match between India and Australia began.", "Label": "Contradiction"}
+{"Premise": "Robin will visit her parents after 10:00.", "Hypothesis": "Robin will visit her parents before 07:00.", "Label": "Contradiction"}
+{"Premise": "Before Jun, the startup received funding.", "Hypothesis": "After Aug, the startup received funding.", "Label": "Contradiction"}
+{"Premise": "Before 14th Oct 1918, Pixar will release an animated film.", "Hypothesis": "Before 25th July 1936, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "I graduated in October.", "Hypothesis": "I graduated after July.", "Label": "Entailment"}
+{"Premise": "Lindsey paid off her loans after Nov.", "Hypothesis": "Lindsey paid off her loans after Jul.", "Label": "Entailment"}
+{"Premise": "After Jan 1989, Pixar will release an animated film.", "Hypothesis": "After January 1954, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies on 16th Apr 1924.", "Hypothesis": "The government will issue new labor policies before 1st Jul 1923.", "Label": "Contradiction"}
+{"Premise": "In Aug 1970, the government will issue new labor policies.", "Hypothesis": "Before July 1967, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "After 12th July 1998, the government issued new labor policies.", "Hypothesis": "After 23rd February 1965, the government issued new labor policies.", "Label": "Entailment"}
+{"Premise": "After 2nd Feb 1930, I will start my bachelors.", "Hypothesis": "Before 24th Jan 1927, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies after 1969.", "Hypothesis": "The government will issue new labor policies after 1953.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia will begin at 3 PM.", "Hypothesis": "The match between India and Australia will begin before 19:00.", "Label": "Entailment"}
+{"Premise": "Pixar released an animated film in February.", "Hypothesis": "Pixar released an animated film before June.", "Label": "Entailment"}
+{"Premise": "I graduated on 2nd.", "Hypothesis": "I graduated after 1st.", "Label": "Entailment"}
+{"Premise": "Lindsey paid off her loans before Jan 1977.", "Hypothesis": "Lindsey paid off her loans after April 1947.", "Label": "Neutral"}
+{"Premise": "On 6th August 1994, Lindsey paid off her loans.", "Hypothesis": "After 14th August 1938, Lindsey paid off her loans.", "Label": "Entailment"}
+{"Premise": "Pixar will release an animated film in October 1954.", "Hypothesis": "Pixar will release an animated film after January 1903.", "Label": "Entailment"}
+{"Premise": "The startup will receive funding on 19th.", "Hypothesis": "The startup will receive funding before 12th.", "Label": "Contradiction"}
+{"Premise": "Before Feb 1998, they became the top football team.", "Hypothesis": "Before May 1916, they became the top football team.", "Label": "Neutral"}
+{"Premise": "After 3 AM, the storm began.", "Hypothesis": "After 03:00, the storm began.", "Label": "Neutral"}
+{"Premise": "On 12th, the government will issue new labor policies.", "Hypothesis": "After 12th, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding before 15:00.", "Hypothesis": "The startup will receive funding after 10:00.", "Label": "Neutral"}
+{"Premise": "At 06:00, the government issued new labor policies.", "Hypothesis": "After 3 AM, the government issued new labor policies.", "Label": "Entailment"}
+{"Premise": "They became the top football team after 28th Mar 1956.", "Hypothesis": "They became the top football team after 28th Jan 1992.", "Label": "Neutral"}
+{"Premise": "In Nov 1954, Pixar released an animated film.", "Hypothesis": "After Mar 1966, Pixar released an animated film.", "Label": "Contradiction"}
+{"Premise": "After Aug, I graduated.", "Hypothesis": "Before Dec, I graduated.", "Label": "Neutral"}
+{"Premise": "On 9th July 1961, the government issued new labor policies.", "Hypothesis": "Before 1st December 1942, the government issued new labor policies.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film after July.", "Hypothesis": "Pixar will release an animated film after March.", "Label": "Entailment"}
+{"Premise": "After 1983, I will submit my PhD dissertation.", "Hypothesis": "After 1961, I will submit my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "I will start my bachelors before Sep.", "Hypothesis": "I will start my bachelors before May.", "Label": "Neutral"}
+{"Premise": "Pixar released an animated film after 14th Jul 1996.", "Hypothesis": "Pixar released an animated film before 16th Aug 1908.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Aug 1981.", "Hypothesis": "They became the top football team before Sep 1900.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors on 23rd Dec 1949.", "Hypothesis": "I started my bachelors after 13th Jan 1924.", "Label": "Entailment"}
+{"Premise": "In Jun 1969, I will start my bachelors.", "Hypothesis": "Before Oct 1903, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "In Mar, he was sworn in as the Prime Minister.", "Hypothesis": "After May, he was sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "Robin will visit her parents before Feb.", "Hypothesis": "Robin will visit her parents after May.", "Label": "Contradiction"}
+{"Premise": "Before 27th, the government will issue new labor policies.", "Hypothesis": "Before 20th, the government will issue new labor policies.", "Label": "Neutral"}
+{"Premise": "On 15th Dec 1924, Pixar released an animated film.", "Hypothesis": "Before 24th Oct 1952, Pixar released an animated film.", "Label": "Entailment"}
+{"Premise": "Before Thursday, I will graduate.", "Hypothesis": "After Wednesday, I will graduate.", "Label": "Neutral"}
+{"Premise": "At 06:00, the government issued new labor policies.", "Hypothesis": "After 02:00, the government issued new labor policies.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe will start in November.", "Hypothesis": "Their tour of Europe will start before Sep.", "Label": "Contradiction"}
+{"Premise": "Before 6th, they will become the top football team.", "Hypothesis": "After 16th, they will become the top football team.", "Label": "Contradiction"}
+{"Premise": "I graduated after 23rd.", "Hypothesis": "I graduated before 24th.", "Label": "Neutral"}
+{"Premise": "On 15th, their tour of Europe will start.", "Hypothesis": "After 17th, their tour of Europe will start.", "Label": "Contradiction"}
+{"Premise": "At 6 AM, he was sworn in as the Prime Minister.", "Hypothesis": "After 3 AM, he was sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "The train from Seattle will depart at 12 PM.", "Hypothesis": "The train from Seattle will depart after 11 PM.", "Label": "Contradiction"}
+{"Premise": "Before 1949, I graduated.", "Hypothesis": "After 1930, I graduated.", "Label": "Neutral"}
+{"Premise": "In Oct, he was sworn in as the Prime Minister.", "Hypothesis": "After Dec, he was sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "After February 1965, I will start my bachelors.", "Hypothesis": "After Oct 1946, I will start my bachelors.", "Label": "Entailment"}
+{"Premise": "Pixar will release an animated film on 18th.", "Hypothesis": "Pixar will release an animated film after 10th.", "Label": "Entailment"}
+{"Premise": "The startup received funding on 21st February 1928.", "Hypothesis": "The startup received funding before 15th May 1992.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies after Wednesday.", "Hypothesis": "The government will issue new labor policies before Monday.", "Label": "Contradiction"}
+{"Premise": "The court case will begin after September.", "Hypothesis": "The court case will begin before July.", "Label": "Contradiction"}
+{"Premise": "In Feb, they will become the top football team.", "Hypothesis": "Before Jun, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "In June, their tour of Europe will start.", "Hypothesis": "After March, their tour of Europe will start.", "Label": "Entailment"}
+{"Premise": "At 6 AM, the court case will begin.", "Hypothesis": "After 4 AM, the court case will begin.", "Label": "Entailment"}
+{"Premise": "On Sunday, the startup will receive funding.", "Hypothesis": "Before Sunday, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "I submitted my PhD dissertation after January 1932.", "Hypothesis": "I submitted my PhD dissertation after Apr 1934.", "Label": "Neutral"}
+{"Premise": "Before 19th Sep 1971, I will graduate.", "Hypothesis": "Before 22nd Jul 1941, I will graduate.", "Label": "Neutral"}
+{"Premise": "On 11th Mar 1927, I submitted my PhD dissertation.", "Hypothesis": "Before 1st Feb 1982, I submitted my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "After Jan 1992, I submitted my PhD dissertation.", "Hypothesis": "Before Jan 1918, I submitted my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "They will become the top football team in October 1934.", "Hypothesis": "They will become the top football team before January 1935.", "Label": "Entailment"}
+{"Premise": "I submitted my PhD dissertation on 14th.", "Hypothesis": "I submitted my PhD dissertation before 12th.", "Label": "Contradiction"}
+{"Premise": "On 14th, the grocery store closed.", "Hypothesis": "Before 11th, the grocery store closed.", "Label": "Contradiction"}
+{"Premise": "Before 23rd April 1968, I will graduate.", "Hypothesis": "Before 8th January 1909, I will graduate.", "Label": "Neutral"}
+{"Premise": "The government issued new labor policies before Jul.", "Hypothesis": "The government issued new labor policies after Aug.", "Label": "Contradiction"}
+{"Premise": "After 2 PM, he will be sworn in as the Prime Minister.", "Hypothesis": "After 8 PM, he will be sworn in as the Prime Minister.", "Label": "Neutral"}
+{"Premise": "In Jul, Lindsey will pay off her loans.", "Hypothesis": "Before Jun, Lindsey will pay off her loans.", "Label": "Contradiction"}
+{"Premise": "Before Wednesday, the grocery store closed.", "Hypothesis": "After Tuesday, the grocery store closed.", "Label": "Neutral"}
+{"Premise": "The train from Seattle will depart at 14:00.", "Hypothesis": "The train from Seattle will depart before 23:00.", "Label": "Entailment"}
+{"Premise": "They will become the top football team before 1906.", "Hypothesis": "They will become the top football team after 1912.", "Label": "Contradiction"}
+{"Premise": "In Apr 1913, I will start my bachelors.", "Hypothesis": "Before Sep 1910, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "On Monday, the government issued new labor policies.", "Hypothesis": "Before Monday, the government issued new labor policies.", "Label": "Contradiction"}
+{"Premise": "In December, the court case began.", "Hypothesis": "After Oct, the court case began.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in 1983.", "Hypothesis": "I started my bachelors before 1906.", "Label": "Contradiction"}
+{"Premise": "Before September, I graduated.", "Hypothesis": "After December, I graduated.", "Label": "Contradiction"}
+{"Premise": "Before 00:00, the startup will receive funding.", "Hypothesis": "After 06:00, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister in Mar.", "Hypothesis": "He will be sworn in as the Prime Minister after June.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors before December.", "Hypothesis": "I started my bachelors after Sep.", "Label": "Neutral"}
+{"Premise": "Their tour of Europe started after Jan.", "Hypothesis": "Their tour of Europe started before January.", "Label": "Contradiction"}
+{"Premise": "After 2nd, I will start my bachelors.", "Hypothesis": "Before 14th, I will start my bachelors.", "Label": "Neutral"}
+{"Premise": "Pixar released an animated film before January 1931.", "Hypothesis": "Pixar released an animated film before Jul 1985.", "Label": "Entailment"}
+{"Premise": "I will graduate before Apr 1929.", "Hypothesis": "I will graduate before August 1960.", "Label": "Entailment"}
+{"Premise": "In 1946, he was sworn in as the Prime Minister.", "Hypothesis": "After 1923, he was sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "After 10 PM, he was sworn in as the Prime Minister.", "Hypothesis": "After 5 PM, he was sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "The train from Seattle will depart at 3 PM.", "Hypothesis": "The train from Seattle will depart before 04:00.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister before June.", "Hypothesis": "He will be sworn in as the Prime Minister after December.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film in May 1903.", "Hypothesis": "Pixar will release an animated film before March 1952.", "Label": "Entailment"}
+{"Premise": "After Sep, Robin will visit her parents.", "Hypothesis": "After October, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "Their tour of Europe will start before 11th.", "Hypothesis": "Their tour of Europe will start before 9th.", "Label": "Neutral"}
+{"Premise": "In Nov, Robin visited her parents.", "Hypothesis": "After Jul, Robin visited her parents.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation at 20:00.", "Hypothesis": "I will submit my PhD dissertation after 17:00.", "Label": "Entailment"}
+{"Premise": "The storm began after 6 AM.", "Hypothesis": "The storm began after 08:00.", "Label": "Neutral"}
+{"Premise": "Pixar released an animated film on 17th January 1991.", "Hypothesis": "Pixar released an animated film before 3rd May 1958.", "Label": "Contradiction"}
+{"Premise": "In 1983, the government will issue new labor policies.", "Hypothesis": "Before 1977, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "Pixar released an animated film on 13th March 1930.", "Hypothesis": "Pixar released an animated film after 6th April 1910.", "Label": "Entailment"}
+{"Premise": "After 1964, they will become the top football team.", "Hypothesis": "Before 1979, they will become the top football team.", "Label": "Neutral"}
+{"Premise": "Before 13:00, he will be sworn in as the Prime Minister.", "Hypothesis": "After 16:00, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding before March.", "Hypothesis": "The startup will receive funding before April.", "Label": "Entailment"}
+{"Premise": "Before Thursday, Pixar released an animated film.", "Hypothesis": "After Friday, Pixar released an animated film.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister at 8 PM.", "Hypothesis": "He will be sworn in as the Prime Minister before 22:00.", "Label": "Entailment"}
+{"Premise": "After October 1935, the startup received funding.", "Hypothesis": "After Jan 1965, the startup received funding.", "Label": "Neutral"}
+{"Premise": "After Jul, the court case will begin.", "Hypothesis": "Before Nov, the court case will begin.", "Label": "Neutral"}
+{"Premise": "Before 11 AM, the court case will begin.", "Hypothesis": "Before 12 PM, the court case will begin.", "Label": "Entailment"}
+{"Premise": "Lindsey will pay off her loans after 6th February 1915.", "Hypothesis": "Lindsey will pay off her loans before 10th October 1977.", "Label": "Neutral"}
+{"Premise": "After Oct, Robin will visit her parents.", "Hypothesis": "Before Nov, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "Pixar will release an animated film after Jun 1975.", "Hypothesis": "Pixar will release an animated film after May 1908.", "Label": "Entailment"}
+{"Premise": "I started my bachelors before 1956.", "Hypothesis": "I started my bachelors after 1919.", "Label": "Neutral"}
+{"Premise": "In December 1947, the startup will receive funding.", "Hypothesis": "After January 1960, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "In March, I will start my bachelors.", "Hypothesis": "Before June, I will start my bachelors.", "Label": "Entailment"}
+{"Premise": "Lindsey paid off her loans in Feb.", "Hypothesis": "Lindsey paid off her loans after April.", "Label": "Contradiction"}
+{"Premise": "In Mar, I will submit my PhD dissertation.", "Hypothesis": "Before Jul, I will submit my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies after 1994.", "Hypothesis": "The government will issue new labor policies after 1949.", "Label": "Entailment"}
+{"Premise": "The court case began at 03:00.", "Hypothesis": "The court case began after 1 AM.", "Label": "Entailment"}
+{"Premise": "The startup received funding in February.", "Hypothesis": "The startup received funding after June.", "Label": "Contradiction"}
+{"Premise": "In Aug, Robin will visit her parents.", "Hypothesis": "After December, Robin will visit her parents.", "Label": "Contradiction"}
+{"Premise": "The match between India and Australia began at 4 AM.", "Hypothesis": "The match between India and Australia began before 1 AM.", "Label": "Contradiction"}
+{"Premise": "After Oct, he was sworn in as the Prime Minister.", "Hypothesis": "Before September, he was sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "Before 26th, the court case will begin.", "Hypothesis": "After 24th, the court case will begin.", "Label": "Neutral"}
+{"Premise": "The startup received funding on Thursday.", "Hypothesis": "The startup received funding before Saturday.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia will begin after 08:00.", "Hypothesis": "The match between India and Australia will begin after 01:00.", "Label": "Entailment"}
+{"Premise": "The storm will begin after 2 AM.", "Hypothesis": "The storm will begin after 10 AM.", "Label": "Neutral"}
+{"Premise": "On 5th May 1987, I will start my bachelors.", "Hypothesis": "Before 5th June 1973, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film on Wednesday.", "Hypothesis": "Pixar will release an animated film before Sunday.", "Label": "Contradiction"}
+{"Premise": "The grocery store will close on 2nd.", "Hypothesis": "The grocery store will close before 3rd.", "Label": "Entailment"}
+{"Premise": "At 13:00, the court case will begin.", "Hypothesis": "After 10:00, the court case will begin.", "Label": "Entailment"}
+{"Premise": "I will graduate in January 1985.", "Hypothesis": "I will graduate after February 1976.", "Label": "Entailment"}
+{"Premise": "Lindsey paid off her loans before May.", "Hypothesis": "Lindsey paid off her loans after Jun.", "Label": "Contradiction"}
+{"Premise": "After 15th Dec 1986, they will become the top football team.", "Hypothesis": "After 24th Jun 1972, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "Lindsey paid off her loans before May 1974.", "Hypothesis": "Lindsey paid off her loans after May 1984.", "Label": "Contradiction"}
+{"Premise": "I will start my bachelors before Thursday.", "Hypothesis": "I will start my bachelors after Saturday.", "Label": "Contradiction"}
+{"Premise": "After Oct, the startup will receive funding.", "Hypothesis": "Before Sep, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "In Oct 1951, he was sworn in as the Prime Minister.", "Hypothesis": "Before Sep 1914, he was sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "After 10th, I will graduate.", "Hypothesis": "After 4th, I will graduate.", "Label": "Entailment"}
+{"Premise": "The startup will receive funding on 1st Aug 1997.", "Hypothesis": "The startup will receive funding before 10th May 1922.", "Label": "Contradiction"}
+{"Premise": "The storm will begin before 9th.", "Hypothesis": "The storm will begin before 15th.", "Label": "Entailment"}
+{"Premise": "Pixar will release an animated film after Apr 1925.", "Hypothesis": "Pixar will release an animated film before October 1936.", "Label": "Neutral"}
+{"Premise": "After 3rd, the court case began.", "Hypothesis": "After 2nd, the court case began.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister before Feb.", "Hypothesis": "He will be sworn in as the Prime Minister after May.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe will start before April.", "Hypothesis": "Their tour of Europe will start before October.", "Label": "Entailment"}
+{"Premise": "Lindsey will pay off her loans in Jun.", "Hypothesis": "Lindsey will pay off her loans before Apr.", "Label": "Contradiction"}
+{"Premise": "The government issued new labor policies after Sunday.", "Hypothesis": "The government issued new labor policies before Sunday.", "Label": "Contradiction"}
+{"Premise": "I will graduate on Sunday.", "Hypothesis": "I will graduate after Wednesday.", "Label": "Contradiction"}
+{"Premise": "Before 22nd January 1959, Lindsey will pay off her loans.", "Hypothesis": "Before 1st December 1994, Lindsey will pay off her loans.", "Label": "Entailment"}
+{"Premise": "At 12 AM, the grocery store closed.", "Hypothesis": "After 8 AM, the grocery store closed.", "Label": "Contradiction"}
+{"Premise": "The startup received funding after September.", "Hypothesis": "The startup received funding after August.", "Label": "Entailment"}
+{"Premise": "He was sworn in as the Prime Minister after Apr.", "Hypothesis": "He was sworn in as the Prime Minister after April.", "Label": "Neutral"}
+{"Premise": "I submitted my PhD dissertation in March 1919.", "Hypothesis": "I submitted my PhD dissertation before Oct 1953.", "Label": "Entailment"}
+{"Premise": "The startup received funding in Sep.", "Hypothesis": "The startup received funding before Nov.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation in 1997.", "Hypothesis": "I will submit my PhD dissertation before 1955.", "Label": "Contradiction"}
+{"Premise": "I will graduate in May.", "Hypothesis": "I will graduate after Jun.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation in October.", "Hypothesis": "I will submit my PhD dissertation before Apr.", "Label": "Contradiction"}
+{"Premise": "In July 1935, I will graduate.", "Hypothesis": "After August 1917, I will graduate.", "Label": "Entailment"}
+{"Premise": "On 15th May 1911, the government issued new labor policies.", "Hypothesis": "Before 21st February 1937, the government issued new labor policies.", "Label": "Entailment"}
+{"Premise": "Pixar will release an animated film in September.", "Hypothesis": "Pixar will release an animated film after March.", "Label": "Entailment"}
+{"Premise": "Before September, he was sworn in as the Prime Minister.", "Hypothesis": "Before December, he was sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "Before December 1952, I graduated.", "Hypothesis": "After May 1901, I graduated.", "Label": "Neutral"}
+{"Premise": "Pixar released an animated film after May.", "Hypothesis": "Pixar released an animated film before January.", "Label": "Contradiction"}
+{"Premise": "In April 1945, the government issued new labor policies.", "Hypothesis": "After August 1932, the government issued new labor policies.", "Label": "Entailment"}
+{"Premise": "Robin will visit her parents after Tuesday.", "Hypothesis": "Robin will visit her parents after Thursday.", "Label": "Neutral"}
+{"Premise": "I will start my bachelors after May 1939.", "Hypothesis": "I will start my bachelors after January 1964.", "Label": "Neutral"}
+{"Premise": "I started my bachelors after July 1968.", "Hypothesis": "I started my bachelors before Nov 1910.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents in April.", "Hypothesis": "Robin visited her parents before October.", "Label": "Entailment"}
+{"Premise": "On 15th, the storm will begin.", "Hypothesis": "After 20th, the storm will begin.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation after January 1967.", "Hypothesis": "I will submit my PhD dissertation before Feb 1965.", "Label": "Contradiction"}
+{"Premise": "The government issued new labor policies on 17th May 1909.", "Hypothesis": "The government issued new labor policies before 20th Nov 1951.", "Label": "Entailment"}
+{"Premise": "Before Apr 1964, I will graduate.", "Hypothesis": "After Mar 1926, I will graduate.", "Label": "Neutral"}
+{"Premise": "The startup received funding after 1996.", "Hypothesis": "The startup received funding before 1920.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents before 22nd.", "Hypothesis": "Robin visited her parents before 15th.", "Label": "Neutral"}
+{"Premise": "On 26th, I submitted my PhD dissertation.", "Hypothesis": "After 16th, I submitted my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "They became the top football team after 9th October 1928.", "Hypothesis": "They became the top football team after 3rd June 1907.", "Label": "Entailment"}
+{"Premise": "In December, he will be sworn in as the Prime Minister.", "Hypothesis": "Before June, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies at 5 PM.", "Hypothesis": "The government will issue new labor policies after 2 PM.", "Label": "Entailment"}
+{"Premise": "The startup received funding before Feb 1919.", "Hypothesis": "The startup received funding before Dec 1965.", "Label": "Entailment"}
+{"Premise": "I started my bachelors on 19th.", "Hypothesis": "I started my bachelors before 15th.", "Label": "Contradiction"}
+{"Premise": "After Nov, the government issued new labor policies.", "Hypothesis": "After December, the government issued new labor policies.", "Label": "Neutral"}
+{"Premise": "Before Apr, the government will issue new labor policies.", "Hypothesis": "After Oct, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "In November, their tour of Europe started.", "Hypothesis": "Before July, their tour of Europe started.", "Label": "Contradiction"}
+{"Premise": "In 1901, I will graduate.", "Hypothesis": "After 1911, I will graduate.", "Label": "Contradiction"}
+{"Premise": "On 15th, the match between India and Australia began.", "Hypothesis": "Before 14th, the match between India and Australia began.", "Label": "Contradiction"}
+{"Premise": "Before 23rd July 1916, the government will issue new labor policies.", "Hypothesis": "After 16th January 1939, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "On 7th Jan 1910, Lindsey paid off her loans.", "Hypothesis": "After 16th Dec 1981, Lindsey paid off her loans.", "Label": "Contradiction"}
+{"Premise": "In Apr 2000, they will become the top football team.", "Hypothesis": "After Feb 1922, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "At 5 AM, I will submit my PhD dissertation.", "Hypothesis": "After 11 AM, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film in June.", "Hypothesis": "Pixar will release an animated film before March.", "Label": "Contradiction"}
+{"Premise": "The grocery store will close on 9th.", "Hypothesis": "The grocery store will close before 21st.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation in February.", "Hypothesis": "I will submit my PhD dissertation before June.", "Label": "Entailment"}
+{"Premise": "The government issued new labor policies in Feb 1993.", "Hypothesis": "The government issued new labor policies after Mar 1910.", "Label": "Entailment"}
+{"Premise": "Before March, their tour of Europe started.", "Hypothesis": "After May, their tour of Europe started.", "Label": "Contradiction"}
+{"Premise": "The startup received funding in Oct 1938.", "Hypothesis": "The startup received funding before Feb 1912.", "Label": "Contradiction"}
+{"Premise": "Lindsey paid off her loans in May.", "Hypothesis": "Lindsey paid off her loans before Jul.", "Label": "Entailment"}
+{"Premise": "On 3rd, I will graduate.", "Hypothesis": "After 7th, I will graduate.", "Label": "Contradiction"}
+{"Premise": "I will graduate on 24th.", "Hypothesis": "I will graduate after 28th.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle will depart at 10 PM.", "Hypothesis": "The train from Seattle will depart after 2 PM.", "Label": "Entailment"}
+{"Premise": "After 1984, the government will issue new labor policies.", "Hypothesis": "After 1939, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "Before Monday, the startup received funding.", "Hypothesis": "After Wednesday, the startup received funding.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle will depart after 7 AM.", "Hypothesis": "The train from Seattle will depart before 11:00.", "Label": "Neutral"}
+{"Premise": "The government issued new labor policies before May 1916.", "Hypothesis": "The government issued new labor policies before November 1913.", "Label": "Neutral"}
+{"Premise": "I graduated after Sep.", "Hypothesis": "I graduated after Aug.", "Label": "Entailment"}
+{"Premise": "The storm will begin after 23:00.", "Hypothesis": "The storm will begin after 4 PM.", "Label": "Entailment"}
+{"Premise": "On 13th, Pixar will release an animated film.", "Hypothesis": "After 11th, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "Lindsey will pay off her loans before October.", "Hypothesis": "Lindsey will pay off her loans before May.", "Label": "Neutral"}
+{"Premise": "After 5 AM, the startup will receive funding.", "Hypothesis": "Before 07:00, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "After Wednesday, he will be sworn in as the Prime Minister.", "Hypothesis": "Before Sunday, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "In Jun, the government issued new labor policies.", "Hypothesis": "Before Feb, the government issued new labor policies.", "Label": "Contradiction"}
+{"Premise": "I graduated before 8th.", "Hypothesis": "I graduated after 19th.", "Label": "Contradiction"}
+{"Premise": "Before Jun, their tour of Europe will start.", "Hypothesis": "After May, their tour of Europe will start.", "Label": "Neutral"}
+{"Premise": "The startup will receive funding in September.", "Hypothesis": "The startup will receive funding before December.", "Label": "Entailment"}
+{"Premise": "The grocery store closed before 2nd.", "Hypothesis": "The grocery store closed after 16th.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding after Sunday.", "Hypothesis": "The startup will receive funding after Tuesday.", "Label": "Neutral"}
+{"Premise": "The storm will begin on Friday.", "Hypothesis": "The storm will begin after Thursday.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation after Wednesday.", "Hypothesis": "I will submit my PhD dissertation after Saturday.", "Label": "Neutral"}
+{"Premise": "After Sep 1980, they became the top football team.", "Hypothesis": "After January 1988, they became the top football team.", "Label": "Neutral"}
+{"Premise": "Before Jun, I will start my bachelors.", "Hypothesis": "Before April, I will start my bachelors.", "Label": "Neutral"}
+{"Premise": "The grocery store closed on Wednesday.", "Hypothesis": "The grocery store closed before Thursday.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started on Wednesday.", "Hypothesis": "Their tour of Europe started before Thursday.", "Label": "Entailment"}
+{"Premise": "They will become the top football team in 1957.", "Hypothesis": "They will become the top football team before 1945.", "Label": "Contradiction"}
+{"Premise": "I will start my bachelors in April.", "Hypothesis": "I will start my bachelors after January.", "Label": "Entailment"}
+{"Premise": "I submitted my PhD dissertation after Friday.", "Hypothesis": "I submitted my PhD dissertation before Saturday.", "Label": "Neutral"}
+{"Premise": "At 08:00, the grocery store closed.", "Hypothesis": "After 2 PM, the grocery store closed.", "Label": "Contradiction"}
+{"Premise": "On 6th March 1977, I will graduate.", "Hypothesis": "Before 26th July 1968, I will graduate.", "Label": "Contradiction"}
+{"Premise": "After 24th March 1917, the startup will receive funding.", "Hypothesis": "After 25th December 1931, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "They became the top football team before August.", "Hypothesis": "They became the top football team after June.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies after 24th December 1918.", "Hypothesis": "The government will issue new labor policies after 10th Oct 1948.", "Label": "Neutral"}
+{"Premise": "Before 21st, the storm will begin.", "Hypothesis": "After 18th, the storm will begin.", "Label": "Neutral"}
+{"Premise": "In December 1925, I will submit my PhD dissertation.", "Hypothesis": "After July 1933, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "In Jun, Lindsey will pay off her loans.", "Hypothesis": "Before March, Lindsey will pay off her loans.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents before Apr.", "Hypothesis": "Robin visited her parents after October.", "Label": "Contradiction"}
+{"Premise": "The grocery store closed before 11 AM.", "Hypothesis": "The grocery store closed after 9 PM.", "Label": "Contradiction"}
+{"Premise": "At 08:00, the storm began.", "Hypothesis": "Before 08:00, the storm began.", "Label": "Contradiction"}
+{"Premise": "I will graduate after 25th.", "Hypothesis": "I will graduate after 21st.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister at 22:00.", "Hypothesis": "He will be sworn in as the Prime Minister before 15:00.", "Label": "Contradiction"}
+{"Premise": "After 23rd Jul 1974, Lindsey paid off her loans.", "Hypothesis": "Before 16th April 1930, Lindsey paid off her loans.", "Label": "Contradiction"}
+{"Premise": "The storm began before 9 PM.", "Hypothesis": "The storm began after 11 PM.", "Label": "Contradiction"}
+{"Premise": "On Friday, I will start my bachelors.", "Hypothesis": "Before Tuesday, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "They became the top football team after Aug.", "Hypothesis": "They became the top football team before June.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents before 9 AM.", "Hypothesis": "Robin visited her parents before 12 AM.", "Label": "Neutral"}
+{"Premise": "Before Jan, their tour of Europe started.", "Hypothesis": "After March, their tour of Europe started.", "Label": "Contradiction"}
+{"Premise": "After 24th, they will become the top football team.", "Hypothesis": "After 22nd, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "After 4th Dec 1988, I graduated.", "Hypothesis": "Before 19th Jan 1934, I graduated.", "Label": "Contradiction"}
+{"Premise": "After 24th, the startup will receive funding.", "Hypothesis": "After 15th, the startup will receive funding.", "Label": "Entailment"}
+{"Premise": "I will start my bachelors in Jun 1982.", "Hypothesis": "I will start my bachelors before Dec 1924.", "Label": "Contradiction"}
+{"Premise": "In Aug 1981, the government issued new labor policies.", "Hypothesis": "After Dec 1959, the government issued new labor policies.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister in Jul.", "Hypothesis": "He will be sworn in as the Prime Minister before November.", "Label": "Entailment"}
+{"Premise": "After 15th, I graduated.", "Hypothesis": "After 23rd, I graduated.", "Label": "Neutral"}
+{"Premise": "At 9 PM, he was sworn in as the Prime Minister.", "Hypothesis": "Before 12 PM, he was sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "On 6th Jun 1977, I graduated.", "Hypothesis": "Before 6th Feb 1965, I graduated.", "Label": "Contradiction"}
+{"Premise": "On 9th, he will be sworn in as the Prime Minister.", "Hypothesis": "Before 3rd, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "In Oct, I will start my bachelors.", "Hypothesis": "After Oct, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "They will become the top football team in May 1998.", "Hypothesis": "They will become the top football team after Oct 1904.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister before 7 PM.", "Hypothesis": "He will be sworn in as the Prime Minister after 16:00.", "Label": "Neutral"}
+{"Premise": "Lindsey paid off her loans on 25th Dec 1963.", "Hypothesis": "Lindsey paid off her loans before 21st Nov 1933.", "Label": "Contradiction"}
+{"Premise": "Lindsey paid off her loans before January 1903.", "Hypothesis": "Lindsey paid off her loans before Dec 1986.", "Label": "Entailment"}
+{"Premise": "He was sworn in as the Prime Minister at 10 PM.", "Hypothesis": "He was sworn in as the Prime Minister before 5 PM.", "Label": "Contradiction"}
+{"Premise": "In Jul, Robin will visit her parents.", "Hypothesis": "Before Jul, Robin will visit her parents.", "Label": "Contradiction"}
+{"Premise": "After September 1961, they became the top football team.", "Hypothesis": "Before January 1926, they became the top football team.", "Label": "Contradiction"}
+{"Premise": "In 1907, I will start my bachelors.", "Hypothesis": "After 1967, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "The court case will begin before 3rd.", "Hypothesis": "The court case will begin after 8th.", "Label": "Contradiction"}
+{"Premise": "In November 1910, I submitted my PhD dissertation.", "Hypothesis": "Before October 1979, I submitted my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "After May, Lindsey will pay off her loans.", "Hypothesis": "After April, Lindsey will pay off her loans.", "Label": "Entailment"}
+{"Premise": "Before 3rd October 1966, they will become the top football team.", "Hypothesis": "After 20th July 1965, they will become the top football team.", "Label": "Neutral"}
+{"Premise": "After July 1923, Lindsey paid off her loans.", "Hypothesis": "Before December 1993, Lindsey paid off her loans.", "Label": "Neutral"}
+{"Premise": "On Saturday, their tour of Europe will start.", "Hypothesis": "Before Friday, their tour of Europe will start.", "Label": "Contradiction"}
+{"Premise": "At 10 AM, the train from Seattle depart.", "Hypothesis": "Before 6 PM, the train from Seattle depart.", "Label": "Entailment"}
+{"Premise": "At 06:00, Robin visited her parents.", "Hypothesis": "After 5 PM, Robin visited her parents.", "Label": "Contradiction"}
+{"Premise": "In Mar, they became the top football team.", "Hypothesis": "Before Sep, they became the top football team.", "Label": "Entailment"}
+{"Premise": "In Jan, Lindsey will pay off her loans.", "Hypothesis": "Before Mar, Lindsey will pay off her loans.", "Label": "Entailment"}
+{"Premise": "The court case will begin on 8th.", "Hypothesis": "The court case will begin after 5th.", "Label": "Entailment"}
+{"Premise": "After February 1918, the startup will receive funding.", "Hypothesis": "After Jul 1971, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "They will become the top football team after May 1904.", "Hypothesis": "They will become the top football team after April 1972.", "Label": "Neutral"}
+{"Premise": "In September, I graduated.", "Hypothesis": "Before Jun, I graduated.", "Label": "Contradiction"}
+{"Premise": "In December 1987, Lindsey paid off her loans.", "Hypothesis": "Before Mar 1928, Lindsey paid off her loans.", "Label": "Contradiction"}
+{"Premise": "In Apr, he was sworn in as the Prime Minister.", "Hypothesis": "Before Jul, he was sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "They will become the top football team in Feb.", "Hypothesis": "They will become the top football team after May.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister on Monday.", "Hypothesis": "He will be sworn in as the Prime Minister before Monday.", "Label": "Contradiction"}
+{"Premise": "On 19th December 1927, the government will issue new labor policies.", "Hypothesis": "Before 11th August 1974, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "After Thursday, the government will issue new labor policies.", "Hypothesis": "After Saturday, the government will issue new labor policies.", "Label": "Neutral"}
+{"Premise": "Lindsey will pay off her loans before July 1956.", "Hypothesis": "Lindsey will pay off her loans before Dec 1979.", "Label": "Entailment"}
+{"Premise": "Before Wednesday, their tour of Europe started.", "Hypothesis": "Before Saturday, their tour of Europe started.", "Label": "Entailment"}
+{"Premise": "After 27th Jul 1961, I will start my bachelors.", "Hypothesis": "Before 2nd Jun 1968, I will start my bachelors.", "Label": "Neutral"}
+{"Premise": "In August, I started my bachelors.", "Hypothesis": "After Jun, I started my bachelors.", "Label": "Entailment"}
+{"Premise": "The startup received funding at 10 PM.", "Hypothesis": "The startup received funding before 22:00.", "Label": "Contradiction"}
+{"Premise": "The startup received funding in September 1922.", "Hypothesis": "The startup received funding before Oct 1913.", "Label": "Contradiction"}
+{"Premise": "After May, the government will issue new labor policies.", "Hypothesis": "After Aug, the government will issue new labor policies.", "Label": "Neutral"}
+{"Premise": "After 23rd January 1932, the startup will receive funding.", "Hypothesis": "Before 3rd June 1998, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "Robin will visit her parents in July.", "Hypothesis": "Robin will visit her parents before August.", "Label": "Entailment"}
+{"Premise": "Lindsey paid off her loans after Dec 1960.", "Hypothesis": "Lindsey paid off her loans before Aug 1903.", "Label": "Contradiction"}
+{"Premise": "I graduated in Jun.", "Hypothesis": "I graduated before Jul.", "Label": "Entailment"}
+{"Premise": "In 1902, Pixar will release an animated film.", "Hypothesis": "After 1907, Pixar will release an animated film.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film before August 1972.", "Hypothesis": "Pixar will release an animated film after Feb 1921.", "Label": "Neutral"}
+{"Premise": "I will graduate in Aug.", "Hypothesis": "I will graduate before September.", "Label": "Entailment"}
+{"Premise": "After Oct, Pixar released an animated film.", "Hypothesis": "Before Aug, Pixar released an animated film.", "Label": "Contradiction"}
+{"Premise": "Before Monday, I submitted my PhD dissertation.", "Hypothesis": "After Monday, I submitted my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "In May, the government will issue new labor policies.", "Hypothesis": "After Oct, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "After 11th December 1942, Lindsey will pay off her loans.", "Hypothesis": "Before 22nd August 1960, Lindsey will pay off her loans.", "Label": "Neutral"}
+{"Premise": "In Jun 1904, Pixar will release an animated film.", "Hypothesis": "After May 1980, Pixar will release an animated film.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding in Oct.", "Hypothesis": "The startup will receive funding after Jun.", "Label": "Entailment"}
+{"Premise": "In June, their tour of Europe will start.", "Hypothesis": "After September, their tour of Europe will start.", "Label": "Contradiction"}
+{"Premise": "After May, Lindsey paid off her loans.", "Hypothesis": "Before May, Lindsey paid off her loans.", "Label": "Contradiction"}
+{"Premise": "At 18:00, Robin will visit her parents.", "Hypothesis": "After 8 PM, Robin will visit her parents.", "Label": "Contradiction"}
+{"Premise": "In September, Robin will visit her parents.", "Hypothesis": "After November, Robin will visit her parents.", "Label": "Contradiction"}
+{"Premise": "I submitted my PhD dissertation on Friday.", "Hypothesis": "I submitted my PhD dissertation after Wednesday.", "Label": "Entailment"}
+{"Premise": "Lindsey paid off her loans on 19th May 1977.", "Hypothesis": "Lindsey paid off her loans after 27th Jan 1993.", "Label": "Contradiction"}
+{"Premise": "They became the top football team on 27th July 1967.", "Hypothesis": "They became the top football team after 9th December 1934.", "Label": "Entailment"}
+{"Premise": "I will graduate in March 1902.", "Hypothesis": "I will graduate after Mar 1921.", "Label": "Contradiction"}
+{"Premise": "On 22nd Nov 1978, he was sworn in as the Prime Minister.", "Hypothesis": "Before 2nd Jul 1986, he was sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "After 9 AM, the grocery store will close.", "Hypothesis": "After 08:00, the grocery store will close.", "Label": "Entailment"}
+{"Premise": "Lindsey will pay off her loans after July.", "Hypothesis": "Lindsey will pay off her loans before May.", "Label": "Contradiction"}
+{"Premise": "I graduated before June 1972.", "Hypothesis": "I graduated before February 1911.", "Label": "Neutral"}
+{"Premise": "Pixar will release an animated film before Feb.", "Hypothesis": "Pixar will release an animated film after Apr.", "Label": "Contradiction"}
+{"Premise": "In January 1913, I will graduate.", "Hypothesis": "Before July 1910, I will graduate.", "Label": "Contradiction"}
+{"Premise": "The grocery store closed at 11 AM.", "Hypothesis": "The grocery store closed before 7 AM.", "Label": "Contradiction"}
+{"Premise": "At 3 AM, the court case began.", "Hypothesis": "Before 8 AM, the court case began.", "Label": "Entailment"}
+{"Premise": "In September, their tour of Europe started.", "Hypothesis": "After July, their tour of Europe started.", "Label": "Entailment"}
+{"Premise": "They will become the top football team after 9th.", "Hypothesis": "They will become the top football team before 19th.", "Label": "Neutral"}
+{"Premise": "After 13th January 1951, I started my bachelors.", "Hypothesis": "Before 17th Mar 1924, I started my bachelors.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors on 7th January 1991.", "Hypothesis": "I started my bachelors before 6th January 1946.", "Label": "Contradiction"}
+{"Premise": "Lindsey will pay off her loans after 1923.", "Hypothesis": "Lindsey will pay off her loans after 1950.", "Label": "Neutral"}
+{"Premise": "Before 17:00, the court case began.", "Hypothesis": "Before 11:00, the court case began.", "Label": "Neutral"}
+{"Premise": "After 5 PM, I submitted my PhD dissertation.", "Hypothesis": "After 8 AM, I submitted my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "At 22:00, I submitted my PhD dissertation.", "Hypothesis": "Before 22:00, I submitted my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "After 02:00, the grocery store will close.", "Hypothesis": "After 09:00, the grocery store will close.", "Label": "Neutral"}
+{"Premise": "I submitted my PhD dissertation after 23rd May 1921.", "Hypothesis": "I submitted my PhD dissertation before 6th October 1997.", "Label": "Neutral"}
+{"Premise": "I submitted my PhD dissertation in March.", "Hypothesis": "I submitted my PhD dissertation before Jan.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents after Sunday.", "Hypothesis": "Robin visited her parents before Wednesday.", "Label": "Neutral"}
+{"Premise": "The government issued new labor policies after Jul 1923.", "Hypothesis": "The government issued new labor policies before Jun 1971.", "Label": "Neutral"}
+{"Premise": "The startup received funding before 3 PM.", "Hypothesis": "The startup received funding before 6 PM.", "Label": "Entailment"}
+{"Premise": "Pixar released an animated film after December.", "Hypothesis": "Pixar released an animated film after October.", "Label": "Entailment"}
+{"Premise": "I graduated after May 1987.", "Hypothesis": "I graduated after Jun 1951.", "Label": "Entailment"}
+{"Premise": "In Sep, I graduated.", "Hypothesis": "Before Aug, I graduated.", "Label": "Contradiction"}
+{"Premise": "After 6th May 1940, I submitted my PhD dissertation.", "Hypothesis": "Before 2nd Jul 1932, I submitted my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "Before Friday, Pixar released an animated film.", "Hypothesis": "After Tuesday, Pixar released an animated film.", "Label": "Neutral"}
+{"Premise": "At 12 AM, Robin will visit her parents.", "Hypothesis": "After 01:00, Robin will visit her parents.", "Label": "Contradiction"}
+{"Premise": "I will graduate on 11th November 1940.", "Hypothesis": "I will graduate after 9th Jun 1958.", "Label": "Contradiction"}
+{"Premise": "On 4th Mar 1994, I started my bachelors.", "Hypothesis": "Before 14th Oct 1906, I started my bachelors.", "Label": "Contradiction"}
+{"Premise": "In Oct 1960, Pixar released an animated film.", "Hypothesis": "After Feb 1908, Pixar released an animated film.", "Label": "Entailment"}
+{"Premise": "I submitted my PhD dissertation after October.", "Hypothesis": "I submitted my PhD dissertation before Dec.", "Label": "Neutral"}
+{"Premise": "I graduated in Dec.", "Hypothesis": "I graduated before June.", "Label": "Contradiction"}
+{"Premise": "After Mar 1969, Lindsey paid off her loans.", "Hypothesis": "After Jun 1951, Lindsey paid off her loans.", "Label": "Entailment"}
+{"Premise": "The startup will receive funding in Jun 1997.", "Hypothesis": "The startup will receive funding after February 1996.", "Label": "Entailment"}
+{"Premise": "The startup will receive funding at 05:00.", "Hypothesis": "The startup will receive funding after 09:00.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister before June.", "Hypothesis": "He will be sworn in as the Prime Minister after May.", "Label": "Neutral"}
+{"Premise": "Before 00:00, the startup received funding.", "Hypothesis": "After 08:00, the startup received funding.", "Label": "Contradiction"}
+{"Premise": "After July, their tour of Europe will start.", "Hypothesis": "After March, their tour of Europe will start.", "Label": "Entailment"}
+{"Premise": "Before May 1933, Pixar released an animated film.", "Hypothesis": "After November 1913, Pixar released an animated film.", "Label": "Neutral"}
+{"Premise": "Before Jan 1905, I will graduate.", "Hypothesis": "After May 1950, I will graduate.", "Label": "Contradiction"}
+{"Premise": "They became the top football team on 28th.", "Hypothesis": "They became the top football team after 14th.", "Label": "Entailment"}
+{"Premise": "After 17th Nov 1979, they will become the top football team.", "Hypothesis": "After 21st December 1938, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "On Thursday, the startup will receive funding.", "Hypothesis": "Before Thursday, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "At 4 AM, the startup will receive funding.", "Hypothesis": "After 5 AM, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "Lindsey paid off her loans after 1943.", "Hypothesis": "Lindsey paid off her loans after 1977.", "Label": "Neutral"}
+{"Premise": "At 00:00, the startup will receive funding.", "Hypothesis": "After 09:00, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "In July 1963, Lindsey paid off her loans.", "Hypothesis": "Before February 1943, Lindsey paid off her loans.", "Label": "Contradiction"}
+{"Premise": "After Nov, their tour of Europe will start.", "Hypothesis": "Before Jul, their tour of Europe will start.", "Label": "Contradiction"}
+{"Premise": "Before Jan, the startup will receive funding.", "Hypothesis": "After May, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film on 13th Mar 1972.", "Hypothesis": "Pixar will release an animated film before 21st June 1908.", "Label": "Contradiction"}
+{"Premise": "They will become the top football team in Jun.", "Hypothesis": "They will become the top football team before April.", "Label": "Contradiction"}
+{"Premise": "After Mar, I will graduate.", "Hypothesis": "Before Jul, I will graduate.", "Label": "Neutral"}
+{"Premise": "After 16:00, the startup will receive funding.", "Hypothesis": "After 08:00, the startup will receive funding.", "Label": "Entailment"}
+{"Premise": "At 04:00, Robin visited her parents.", "Hypothesis": "Before 1 PM, Robin visited her parents.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies before November 1930.", "Hypothesis": "The government will issue new labor policies before June 1940.", "Label": "Entailment"}
+{"Premise": "Before 27th November 1963, I will graduate.", "Hypothesis": "Before 10th Oct 1902, I will graduate.", "Label": "Neutral"}
+{"Premise": "After Oct 1942, the government will issue new labor policies.", "Hypothesis": "Before July 1942, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors before 1951.", "Hypothesis": "I started my bachelors before 1948.", "Label": "Neutral"}
+{"Premise": "Robin visited her parents in Feb.", "Hypothesis": "Robin visited her parents before Jun.", "Label": "Entailment"}
+{"Premise": "Pixar released an animated film in February.", "Hypothesis": "Pixar released an animated film after January.", "Label": "Entailment"}
+{"Premise": "Robin will visit her parents on Tuesday.", "Hypothesis": "Robin will visit her parents after Friday.", "Label": "Contradiction"}
+{"Premise": "The storm will begin at 1 PM.", "Hypothesis": "The storm will begin before 12 PM.", "Label": "Contradiction"}
+{"Premise": "In May 1931, I submitted my PhD dissertation.", "Hypothesis": "After Feb 1920, I submitted my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "The court case will begin before 07:00.", "Hypothesis": "The court case will begin before 12 PM.", "Label": "Entailment"}
+{"Premise": "In July 1900, the government will issue new labor policies.", "Hypothesis": "Before August 1963, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents after Jun.", "Hypothesis": "Robin visited her parents after Nov.", "Label": "Neutral"}
+{"Premise": "Robin will visit her parents after Jun.", "Hypothesis": "Robin will visit her parents before July.", "Label": "Neutral"}
+{"Premise": "Lindsey paid off her loans after August 1939.", "Hypothesis": "Lindsey paid off her loans before November 1925.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle departed after 9 AM.", "Hypothesis": "The train from Seattle departed before 10:00.", "Label": "Neutral"}
+{"Premise": "He was sworn in as the Prime Minister on 12th.", "Hypothesis": "He was sworn in as the Prime Minister after 17th.", "Label": "Contradiction"}
+{"Premise": "In December, he will be sworn in as the Prime Minister.", "Hypothesis": "After Jul, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "The court case will begin before 02:00.", "Hypothesis": "The court case will begin after 08:00.", "Label": "Contradiction"}
+{"Premise": "At 1 PM, the match between India and Australia began.", "Hypothesis": "After 02:00, the match between India and Australia began.", "Label": "Entailment"}
+{"Premise": "Before 18th January 1967, I will submit my PhD dissertation.", "Hypothesis": "Before 8th August 1940, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "In May 1954, I will graduate.", "Hypothesis": "Before December 1927, I will graduate.", "Label": "Contradiction"}
+{"Premise": "I submitted my PhD dissertation on 22nd.", "Hypothesis": "I submitted my PhD dissertation after 12th.", "Label": "Entailment"}
+{"Premise": "At 10:00, the startup received funding.", "Hypothesis": "Before 4 AM, the startup received funding.", "Label": "Contradiction"}
+{"Premise": "After 12th Sep 1949, the government issued new labor policies.", "Hypothesis": "Before 22nd Jul 1911, the government issued new labor policies.", "Label": "Contradiction"}
+{"Premise": "At 9 AM, the startup received funding.", "Hypothesis": "After 06:00, the startup received funding.", "Label": "Entailment"}
+{"Premise": "Before May 1971, the government issued new labor policies.", "Hypothesis": "After May 1952, the government issued new labor policies.", "Label": "Neutral"}
+{"Premise": "On 15th, I graduated.", "Hypothesis": "Before 11th, I graduated.", "Label": "Contradiction"}
+{"Premise": "Lindsey will pay off her loans on 19th July 1929.", "Hypothesis": "Lindsey will pay off her loans after 21st November 1949.", "Label": "Contradiction"}
+{"Premise": "The grocery store closed at 1 AM.", "Hypothesis": "The grocery store closed after 6 AM.", "Label": "Contradiction"}
+{"Premise": "I submitted my PhD dissertation before 9 PM.", "Hypothesis": "I submitted my PhD dissertation before 12 PM.", "Label": "Neutral"}
+{"Premise": "I submitted my PhD dissertation before 8th.", "Hypothesis": "I submitted my PhD dissertation after 5th.", "Label": "Neutral"}
+{"Premise": "The court case will begin at 18:00.", "Hypothesis": "The court case will begin before 6 PM.", "Label": "Contradiction"}
+{"Premise": "The government issued new labor policies in February 1932.", "Hypothesis": "The government issued new labor policies after May 1939.", "Label": "Contradiction"}
+{"Premise": "After 5th May 1947, Lindsey paid off her loans.", "Hypothesis": "Before 4th March 1988, Lindsey paid off her loans.", "Label": "Neutral"}
+{"Premise": "Lindsey paid off her loans after July.", "Hypothesis": "Lindsey paid off her loans before May.", "Label": "Contradiction"}

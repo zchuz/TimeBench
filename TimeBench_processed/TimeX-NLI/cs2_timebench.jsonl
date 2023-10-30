@@ -1,0 +1,500 @@
+{"Premise": "I started my bachelors in Feb 1957 and graduated in Aug 1984.", "Hypothesis": "I pursued my bachelors degree for 330 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Aug to Mar.", "Hypothesis": "They toured parts of Europe for 70 months.", "Label": "Contradiction"}
+{"Premise": "Robin's visit to her parents' started on Monday and ended on Thursday.", "Hypothesis": "Robin visited her parents for 4 days.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from 1973 to 1996.", "Hypothesis": "They were the top football team for 230 years.", "Label": "Contradiction"}
+{"Premise": "The storm began at 21:00 and lasted until 18:00.", "Hypothesis": "The storm lasted for 21 hours.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 6 AM to 7 PM.", "Hypothesis": "The storm lasted for less than 130 hours.", "Label": "Entailment"}
+{"Premise": "The court case started in April and ended in Feb.", "Hypothesis": "The court case lasted for less than 10 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from February to October.", "Hypothesis": "The court case lasted for less than 80 months.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 02:00 to 10 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 20 hours.", "Label": "Contradiction"}
+{"Premise": "The court case started in February and ended in October.", "Hypothesis": "The court case lasted for 9 months.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 02:00 and reached Portland at 8 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 19 hours.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 5 PM and reached Portland at 07:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 14 hours.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in May and lasted until Jan.", "Hypothesis": "They toured parts of Europe for less than 8 months.", "Label": "Contradiction"}
+{"Premise": "The storm began on Monday and lasted until Saturday.", "Hypothesis": "The storm lasted for 50 days.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in July 1946 and remained so until Dec 1986.", "Hypothesis": "They were the top football team for less than 40 years 5 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 5 PM to 02:00.", "Hypothesis": "The storm lasted for less than 90 hours.", "Label": "Entailment"}
+{"Premise": "They were the top football team from December 1929 to January 1992.", "Hypothesis": "They were the top football team for less than 745 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 04:00 to 23:00.", "Hypothesis": "The storm lasted for less than 19 hours.", "Label": "Contradiction"}
+{"Premise": "The court case started in June and ended in December.", "Hypothesis": "The court case lasted for 60 months.", "Label": "Contradiction"}
+{"Premise": "The train journey from Seattle to Portland lasted from 3 AM to 8 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 17 hours.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in May and lasted until February.", "Hypothesis": "They toured parts of Europe for 9 months.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia began on 13th and ended on 28th.", "Hypothesis": "India played Australia for less than 16 days.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in Mar and lasted until November.", "Hypothesis": "They toured parts of Europe for 80 months.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from June 1918 to June 1974.", "Hypothesis": "I pursued my bachelors degree for less than 560 years.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from Feb 1909 to December 1933.", "Hypothesis": "I pursued my bachelors degree for 248 years 4 months.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Saturday to Tuesday.", "Hypothesis": "They toured parts of Europe for less than 30 days.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from 6th to 17th.", "Hypothesis": "They toured parts of Europe for less than 12 days.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in Nov and lasted until Sep.", "Hypothesis": "They toured parts of Europe for 10 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Aug to Mar.", "Hypothesis": "They toured parts of Europe for less than 70 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 14th to 23rd.", "Hypothesis": "The storm lasted for less than 9 days.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from February to Nov.", "Hypothesis": "They were the top football team for 10 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from 3rd to 28th.", "Hypothesis": "The court case lasted for less than 25 days.", "Label": "Contradiction"}
+{"Premise": "The court case started on Friday and ended on Wednesday.", "Hypothesis": "The court case lasted for less than 50 days.", "Label": "Entailment"}
+{"Premise": "The court case started on 15th and ended on 22nd.", "Hypothesis": "The court case lasted for 70 days.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Oct and remained so until Jun.", "Hypothesis": "They were the top football team for less than 8 months.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in July 1934 and graduated in August 1964.", "Hypothesis": "I pursued my bachelors degree for less than 3610 months.", "Label": "Entailment"}
+{"Premise": "The court case lasted from July to Apr.", "Hypothesis": "The court case lasted for 10 months.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents from Wednesday to Monday.", "Hypothesis": "Robin visited her parents for less than 5 days.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from May 1944 to Feb 1972.", "Hypothesis": "I pursued my bachelors degree for less than 27 years 10 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from January 1939 to December 1946.", "Hypothesis": "They were the top football team for 95 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from May to January.", "Hypothesis": "They toured parts of Europe for less than 9 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Thursday to Wednesday.", "Hypothesis": "They toured parts of Europe for less than 6 days.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from Feb 1923 to Apr 1946.", "Hypothesis": "I pursued my bachelors degree for 231 years 8 months.", "Label": "Contradiction"}
+{"Premise": "India played Australia from 8th to 19th.", "Hypothesis": "India played Australia for less than 11 days.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents from 3rd to 10th.", "Hypothesis": "Robin visited her parents for 70 days.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from Jun 1911 to Aug 1964.", "Hypothesis": "They were the top football team for 53 years 2 months.", "Label": "Entailment"}
+{"Premise": "The court case lasted from 3rd to 28th.", "Hypothesis": "The court case lasted for less than 26 days.", "Label": "Entailment"}
+{"Premise": "The court case started in July and ended in Feb.", "Hypothesis": "The court case lasted for 7 months.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 5 PM to 11 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 18 hours.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in September 1932 and graduated in Mar 1965.", "Hypothesis": "I pursued my bachelors degree for less than 32 years 6 months.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 06:00 and reached Portland at 11:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 6 hours.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from Thursday to Wednesday.", "Hypothesis": "The court case lasted for less than 7 days.", "Label": "Entailment"}
+{"Premise": "They became the top football team in Jul and remained so until Aug.", "Hypothesis": "They were the top football team for less than 1 month.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Oct to April.", "Hypothesis": "They toured parts of Europe for less than 7 months.", "Label": "Entailment"}
+{"Premise": "The court case lasted from Tuesday to Thursday.", "Hypothesis": "The court case lasted for 3 days.", "Label": "Contradiction"}
+{"Premise": "The storm began at 14:00 and lasted until 09:00.", "Hypothesis": "The storm lasted for 190 hours.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in June and remained so until Jan.", "Hypothesis": "They were the top football team for 8 months.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from Mar 1928 to Sep 1952.", "Hypothesis": "I pursued my bachelors degree for less than 294 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Feb 1922 and remained so until May 1939.", "Hypothesis": "They were the top football team for 17 years 3 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Aug to May.", "Hypothesis": "They toured parts of Europe for 90 months.", "Label": "Contradiction"}
+{"Premise": "The match between India and Australia began on 10th and ended on 15th.", "Hypothesis": "India played Australia for 5 days.", "Label": "Entailment"}
+{"Premise": "The storm began on Friday and lasted until Saturday.", "Hypothesis": "The storm lasted for 1 day.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started on Tuesday and lasted until Monday.", "Hypothesis": "They toured parts of Europe for less than 60 days.", "Label": "Entailment"}
+{"Premise": "The court case lasted from Monday to Thursday.", "Hypothesis": "The court case lasted for 30 days.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from Sunday to Friday.", "Hypothesis": "The storm lasted for less than 6 days.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in Mar and lasted until November.", "Hypothesis": "They toured parts of Europe for less than 80 months.", "Label": "Entailment"}
+{"Premise": "The court case started in Apr and ended in February.", "Hypothesis": "The court case lasted for 100 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from Tuesday to Saturday.", "Hypothesis": "The court case lasted for 5 days.", "Label": "Contradiction"}
+{"Premise": "The match between India and Australia began on Saturday and ended on Monday.", "Hypothesis": "India played Australia for less than 3 days.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in Jan and lasted until July.", "Hypothesis": "They toured parts of Europe for 60 months.", "Label": "Contradiction"}
+{"Premise": "Robin's visit to her parents' started on Saturday and ended on Tuesday.", "Hypothesis": "Robin visited her parents for 4 days.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from Sunday to Monday.", "Hypothesis": "The storm lasted for 10 days.", "Label": "Contradiction"}
+{"Premise": "The storm began at 06:00 and lasted until 14:00.", "Hypothesis": "The storm lasted for less than 8 hours.", "Label": "Contradiction"}
+{"Premise": "The match between India and Australia began on Thursday and ended on Tuesday.", "Hypothesis": "India played Australia for less than 50 days.", "Label": "Entailment"}
+{"Premise": "They became the top football team in September 1904 and remained so until Apr 1923.", "Hypothesis": "They were the top football team for less than 223 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started on 8th and lasted until 26th.", "Hypothesis": "They toured parts of Europe for less than 180 days.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Feb to Nov.", "Hypothesis": "They toured parts of Europe for 10 months.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in Dec 1981 and graduated in Mar 1998.", "Hypothesis": "I pursued my bachelors degree for 16 years 3 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 13:00 to 12 PM.", "Hypothesis": "The storm lasted for 23 hours.", "Label": "Entailment"}
+{"Premise": "The storm began on 8th and lasted until 25th.", "Hypothesis": "The storm lasted for less than 170 days.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in 1912 and graduated in 1971.", "Hypothesis": "I pursued my bachelors degree for 590 years.", "Label": "Contradiction"}
+{"Premise": "The court case started in February and ended in Jan.", "Hypothesis": "The court case lasted for less than 11 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 7 PM to 3 PM.", "Hypothesis": "The storm lasted for less than 21 hours.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 20:00 to 22:00.", "Hypothesis": "The storm lasted for 20 hours.", "Label": "Contradiction"}
+{"Premise": "The match between India and Australia began on 10th and ended on 23rd.", "Hypothesis": "India played Australia for 14 days.", "Label": "Contradiction"}
+{"Premise": "The match between India and Australia began on Monday and ended on Saturday.", "Hypothesis": "India played Australia for 5 days.", "Label": "Entailment"}
+{"Premise": "The court case lasted from Wednesday to Tuesday.", "Hypothesis": "The court case lasted for 60 days.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 5 AM and reached Portland at 9 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 4 hours.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from February to Mar.", "Hypothesis": "They toured parts of Europe for 1 month.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in Jul 1925 and graduated in Jan 1967.", "Hypothesis": "I pursued my bachelors degree for less than 498 months.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 8 PM and reached Portland at 9 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 2 hours.", "Label": "Entailment"}
+{"Premise": "The court case lasted from March to February.", "Hypothesis": "The court case lasted for less than 12 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from May to Oct.", "Hypothesis": "They were the top football team for 5 months.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in Mar and lasted until November.", "Hypothesis": "They toured parts of Europe for less than 9 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from November to October.", "Hypothesis": "They were the top football team for 110 months.", "Label": "Contradiction"}
+{"Premise": "Robin's visit to her parents' started on Monday and ended on Thursday.", "Hypothesis": "Robin visited her parents for 30 days.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from Dec 1900 to Dec 1918.", "Hypothesis": "They were the top football team for less than 217 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from Saturday to Tuesday.", "Hypothesis": "The storm lasted for less than 4 days.", "Label": "Entailment"}
+{"Premise": "The storm began at 03:00 and lasted until 8 AM.", "Hypothesis": "The storm lasted for less than 6 hours.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from Mar 1928 to Sep 1952.", "Hypothesis": "I pursued my bachelors degree for less than 295 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in December 1924 and remained so until Aug 1997.", "Hypothesis": "They were the top football team for less than 72 years 8 months.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from Sep to Apr.", "Hypothesis": "They were the top football team for less than 70 months.", "Label": "Entailment"}
+{"Premise": "The storm began at 06:00 and lasted until 10 AM.", "Hypothesis": "The storm lasted for less than 40 hours.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in September 1965 and graduated in March 1989.", "Hypothesis": "I pursued my bachelors degree for less than 283 months.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 18:00 and reached Portland at 09:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 16 hours.", "Label": "Entailment"}
+{"Premise": "India played Australia from Sunday to Friday.", "Hypothesis": "India played Australia for less than 5 days.", "Label": "Contradiction"}
+{"Premise": "The court case started on 17th and ended on 18th.", "Hypothesis": "The court case lasted for 1 day.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia began on 3rd and ended on 17th.", "Hypothesis": "India played Australia for less than 140 days.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 07:00 to 15:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 80 hours.", "Label": "Contradiction"}
+{"Premise": "The storm began on Monday and lasted until Sunday.", "Hypothesis": "The storm lasted for 60 days.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in August and remained so until February.", "Hypothesis": "They were the top football team for 60 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from Friday to Thursday.", "Hypothesis": "The storm lasted for 6 days.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 1 AM and reached Portland at 18:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 17 hours.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 02:00 to 9 PM.", "Hypothesis": "The storm lasted for less than 190 hours.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from 17th to 27th.", "Hypothesis": "They toured parts of Europe for 100 days.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from February 1912 to May 1999.", "Hypothesis": "They were the top football team for 87 years 3 months.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in 1934 and graduated in 1937.", "Hypothesis": "I pursued my bachelors degree for 4 years.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 12 AM to 8 PM.", "Hypothesis": "The storm lasted for less than 20 hours.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 01:00 and reached Portland at 11 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 10 hours.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents from Tuesday to Friday.", "Hypothesis": "Robin visited her parents for less than 3 days.", "Label": "Contradiction"}
+{"Premise": "India played Australia from Tuesday to Friday.", "Hypothesis": "India played Australia for 30 days.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from Feb to Aug.", "Hypothesis": "The court case lasted for 6 months.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 02:00 and reached Portland at 23:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 210 hours.", "Label": "Entailment"}
+{"Premise": "They became the top football team in Jan 1943 and remained so until March 1963.", "Hypothesis": "They were the top football team for 20 years 3 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Sep and remained so until Dec.", "Hypothesis": "They were the top football team for 30 months.", "Label": "Contradiction"}
+{"Premise": "Robin's visit to her parents' started on 8th and ended on 23rd.", "Hypothesis": "Robin visited her parents for less than 16 days.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in September 1965 and graduated in March 1989.", "Hypothesis": "I pursued my bachelors degree for less than 282 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from December to July.", "Hypothesis": "The court case lasted for less than 8 months.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in March 1918 and graduated in July 1936.", "Hypothesis": "I pursued my bachelors degree for less than 221 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from Wednesday to Saturday.", "Hypothesis": "The storm lasted for 30 days.", "Label": "Contradiction"}
+{"Premise": "India played Australia from Sunday to Friday.", "Hypothesis": "India played Australia for 50 days.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in February and remained so until April.", "Hypothesis": "They were the top football team for 3 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from December to July.", "Hypothesis": "The court case lasted for less than 70 months.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in 1912 and graduated in 1971.", "Hypothesis": "I pursued my bachelors degree for less than 590 years.", "Label": "Entailment"}
+{"Premise": "India played Australia from Sunday to Monday.", "Hypothesis": "India played Australia for 10 days.", "Label": "Contradiction"}
+{"Premise": "The train journey from Seattle to Portland lasted from 10 AM to 10 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 13 hours.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from November to Jan.", "Hypothesis": "They toured parts of Europe for less than 3 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Wednesday to Saturday.", "Hypothesis": "They toured parts of Europe for less than 4 days.", "Label": "Entailment"}
+{"Premise": "The storm began at 06:00 and lasted until 18:00.", "Hypothesis": "The storm lasted for less than 13 hours.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents from Wednesday to Sunday.", "Hypothesis": "Robin visited her parents for less than 40 days.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 21:00 to 23:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 3 hours.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia began on 10th and ended on 11th.", "Hypothesis": "India played Australia for less than 10 days.", "Label": "Entailment"}
+{"Premise": "They were the top football team from March to July.", "Hypothesis": "They were the top football team for 40 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from January to May.", "Hypothesis": "The court case lasted for 4 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in January 1990 and remained so until Jun 1992.", "Hypothesis": "They were the top football team for less than 30 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from 1973 to 1996.", "Hypothesis": "They were the top football team for 23 years.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 11 PM to 01:00.", "Hypothesis": "The storm lasted for 2 hours.", "Label": "Entailment"}
+{"Premise": "They were the top football team from 1987 to 1988.", "Hypothesis": "They were the top football team for less than 2 years.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 23:00 to 07:00.", "Hypothesis": "The storm lasted for 9 hours.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 17:00 to 00:00.", "Hypothesis": "The storm lasted for 8 hours.", "Label": "Contradiction"}
+{"Premise": "The court case started in Feb and ended in Oct.", "Hypothesis": "The court case lasted for 8 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 1 AM to 9 PM.", "Hypothesis": "The storm lasted for less than 21 hours.", "Label": "Entailment"}
+{"Premise": "They were the top football team from Nov to Dec.", "Hypothesis": "They were the top football team for 10 months.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from November 1948 to March 1955.", "Hypothesis": "I pursued my bachelors degree for less than 6 years 4 months.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 6 PM and reached Portland at 4 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 22 hours.", "Label": "Entailment"}
+{"Premise": "The court case started on Wednesday and ended on Saturday.", "Hypothesis": "The court case lasted for less than 4 days.", "Label": "Entailment"}
+{"Premise": "The court case started in April and ended in January.", "Hypothesis": "The court case lasted for less than 90 months.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started on Sunday and lasted until Monday.", "Hypothesis": "They toured parts of Europe for 1 day.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from Oct 1974 to Aug 1990.", "Hypothesis": "I pursued my bachelors degree for less than 190 months.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 4 AM and reached Portland at 9 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 17 hours.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in Jun and lasted until Sep.", "Hypothesis": "They toured parts of Europe for less than 3 months.", "Label": "Contradiction"}
+{"Premise": "The court case started in Nov and ended in Feb.", "Hypothesis": "The court case lasted for 30 months.", "Label": "Contradiction"}
+{"Premise": "The match between India and Australia began on 10th and ended on 11th.", "Hypothesis": "India played Australia for 1 day.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from 1939 to 1998.", "Hypothesis": "I pursued my bachelors degree for 59 years.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from May to October.", "Hypothesis": "They toured parts of Europe for 6 months.", "Label": "Contradiction"}
+{"Premise": "The storm began on Saturday and lasted until Tuesday.", "Hypothesis": "The storm lasted for less than 4 days.", "Label": "Entailment"}
+{"Premise": "The court case started on 13th and ended on 24th.", "Hypothesis": "The court case lasted for 110 days.", "Label": "Contradiction"}
+{"Premise": "The storm began at 11 PM and lasted until 01:00.", "Hypothesis": "The storm lasted for 3 hours.", "Label": "Contradiction"}
+{"Premise": "Robin's visit to her parents' started on Monday and ended on Thursday.", "Hypothesis": "Robin visited her parents for less than 4 days.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from Sep 1941 to December 1998.", "Hypothesis": "I pursued my bachelors degree for less than 6870 months.", "Label": "Entailment"}
+{"Premise": "The court case lasted from August to September.", "Hypothesis": "The court case lasted for 1 month.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from Feb 1912 to January 1994.", "Hypothesis": "I pursued my bachelors degree for 819 years 2 months.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Friday to Sunday.", "Hypothesis": "They toured parts of Europe for 20 days.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in July and remained so until May.", "Hypothesis": "They were the top football team for 10 months.", "Label": "Entailment"}
+{"Premise": "The court case started in April and ended in Feb.", "Hypothesis": "The court case lasted for 10 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from Jun 1911 to Aug 1964.", "Hypothesis": "They were the top football team for 531 years 8 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Sep and remained so until Dec.", "Hypothesis": "They were the top football team for less than 4 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from Monday to Tuesday.", "Hypothesis": "The storm lasted for less than 2 days.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in Sep 1942 and graduated in April 1996.", "Hypothesis": "I pursued my bachelors degree for 53 years 8 months.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from June 1905 to Oct 1966.", "Hypothesis": "I pursued my bachelors degree for 7360 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in Oct and lasted until Jul.", "Hypothesis": "They toured parts of Europe for less than 90 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from May to March.", "Hypothesis": "They were the top football team for less than 100 months.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 10:00 and reached Portland at 3 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 50 hours.", "Label": "Entailment"}
+{"Premise": "The court case started in May and ended in August.", "Hypothesis": "The court case lasted for 4 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Jul and remained so until Oct.", "Hypothesis": "They were the top football team for less than 4 months.", "Label": "Entailment"}
+{"Premise": "The storm began on 6th and lasted until 16th.", "Hypothesis": "The storm lasted for 10 days.", "Label": "Entailment"}
+{"Premise": "India played Australia from Saturday to Sunday.", "Hypothesis": "India played Australia for 1 day.", "Label": "Entailment"}
+{"Premise": "They were the top football team from Jun to Apr.", "Hypothesis": "They were the top football team for 100 months.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from October to January.", "Hypothesis": "They toured parts of Europe for 30 months.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in 1901 and graduated in 1926.", "Hypothesis": "I pursued my bachelors degree for less than 26 years.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in July 1934 and graduated in August 1964.", "Hypothesis": "I pursued my bachelors degree for less than 361 months.", "Label": "Contradiction"}
+{"Premise": "The storm began at 7 PM and lasted until 8 PM.", "Hypothesis": "The storm lasted for less than 1 hour.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in May and remained so until November.", "Hypothesis": "They were the top football team for less than 60 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in August 1911 and remained so until January 1970.", "Hypothesis": "They were the top football team for less than 702 months.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in Sep and lasted until April.", "Hypothesis": "They toured parts of Europe for less than 8 months.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from Nov 1946 to October 1957.", "Hypothesis": "I pursued my bachelors degree for less than 109 years 2 months.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia began on Tuesday and ended on Wednesday.", "Hypothesis": "India played Australia for less than 1 day.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in September 1928 and graduated in Nov 1968.", "Hypothesis": "I pursued my bachelors degree for 40 years 2 months.", "Label": "Entailment"}
+{"Premise": "The court case started in Feb and ended in Mar.", "Hypothesis": "The court case lasted for less than 1 month.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in January and lasted until Feb.", "Hypothesis": "They toured parts of Europe for less than 1 month.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 12 PM and reached Portland at 12 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 120 hours.", "Label": "Entailment"}
+{"Premise": "They became the top football team in Dec and remained so until Aug.", "Hypothesis": "They were the top football team for less than 9 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in Dec 1963 and remained so until Oct 1986.", "Hypothesis": "They were the top football team for 275 months.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from April 1961 to June 1986.", "Hypothesis": "They were the top football team for 25 years 3 months.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in September 1928 and graduated in Nov 1968.", "Hypothesis": "I pursued my bachelors degree for less than 40 years 2 months.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Friday to Sunday.", "Hypothesis": "They toured parts of Europe for 3 days.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from October to February.", "Hypothesis": "The court case lasted for 40 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started on Friday and lasted until Saturday.", "Hypothesis": "They toured parts of Europe for less than 10 days.", "Label": "Entailment"}
+{"Premise": "Robin's visit to her parents' started on 2nd and ended on 22nd.", "Hypothesis": "Robin visited her parents for 20 days.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 10 AM to 4 AM.", "Hypothesis": "The storm lasted for less than 19 hours.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 7 PM and reached Portland at 08:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 14 hours.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in December and lasted until September.", "Hypothesis": "They toured parts of Europe for less than 90 months.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents from Friday to Tuesday.", "Hypothesis": "Robin visited her parents for 5 days.", "Label": "Contradiction"}
+{"Premise": "Robin's visit to her parents' started on 2nd and ended on 22nd.", "Hypothesis": "Robin visited her parents for less than 200 days.", "Label": "Entailment"}
+{"Premise": "They were the top football team from November to Jan.", "Hypothesis": "They were the top football team for 20 months.", "Label": "Contradiction"}
+{"Premise": "Robin's visit to her parents' started on 3rd and ended on 20th.", "Hypothesis": "Robin visited her parents for less than 17 days.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in Feb and lasted until Aug.", "Hypothesis": "They toured parts of Europe for less than 6 months.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 13:00 and reached Portland at 06:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 18 hours.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 12 AM to 8 PM.", "Hypothesis": "The storm lasted for 21 hours.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from Thursday to Wednesday.", "Hypothesis": "The court case lasted for 60 days.", "Label": "Contradiction"}
+{"Premise": "The storm began at 10 AM and lasted until 9 PM.", "Hypothesis": "The storm lasted for less than 110 hours.", "Label": "Entailment"}
+{"Premise": "They became the top football team in May 1901 and remained so until Sep 1969.", "Hypothesis": "They were the top football team for less than 821 months.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 14:00 to 09:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 20 hours.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 2 AM to 07:00.", "Hypothesis": "The storm lasted for less than 6 hours.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 12 PM and reached Portland at 12 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 13 hours.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 02:00 to 10 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 20 hours.", "Label": "Entailment"}
+{"Premise": "They became the top football team in 1993 and remained so until 1994.", "Hypothesis": "They were the top football team for 2 years.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents from Tuesday to Friday.", "Hypothesis": "Robin visited her parents for 3 days.", "Label": "Entailment"}
+{"Premise": "The storm began on Sunday and lasted until Wednesday.", "Hypothesis": "The storm lasted for 4 days.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 02:00 and reached Portland at 23:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 22 hours.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from June to July.", "Hypothesis": "They toured parts of Europe for less than 2 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from 11th to 16th.", "Hypothesis": "They toured parts of Europe for 6 days.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in July 1946 and remained so until Dec 1986.", "Hypothesis": "They were the top football team for 40 years 6 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Feb 1922 and remained so until May 1939.", "Hypothesis": "They were the top football team for 172 years 6 months.", "Label": "Contradiction"}
+{"Premise": "The court case started on Monday and ended on Wednesday.", "Hypothesis": "The court case lasted for less than 2 days.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 05:00 to 3 AM.", "Hypothesis": "The storm lasted for less than 220 hours.", "Label": "Entailment"}
+{"Premise": "India played Australia from Tuesday to Friday.", "Hypothesis": "India played Australia for 3 days.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Jul to Sep.", "Hypothesis": "They toured parts of Europe for 2 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from Apr 1911 to Dec 1990.", "Hypothesis": "They were the top football team for less than 796 years 8 months.", "Label": "Entailment"}
+{"Premise": "The storm began at 15:00 and lasted until 20:00.", "Hypothesis": "The storm lasted for 6 hours.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from Mar 1928 to Sep 1952.", "Hypothesis": "I pursued my bachelors degree for less than 2940 months.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in Aug 1904 and graduated in February 1932.", "Hypothesis": "I pursued my bachelors degree for 330 months.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in Aug 1940 and graduated in May 1975.", "Hypothesis": "I pursued my bachelors degree for less than 417 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Sep and remained so until Aug.", "Hypothesis": "They were the top football team for less than 12 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from May to March.", "Hypothesis": "They were the top football team for 10 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from Saturday to Tuesday.", "Hypothesis": "The storm lasted for 4 days.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in 1901 and graduated in 1926.", "Hypothesis": "I pursued my bachelors degree for 250 years.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from May to Oct.", "Hypothesis": "They were the top football team for less than 5 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 10 AM to 9 AM.", "Hypothesis": "The storm lasted for less than 23 hours.", "Label": "Contradiction"}
+{"Premise": "The court case started in December and ended in April.", "Hypothesis": "The court case lasted for less than 5 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in Feb and remained so until Oct.", "Hypothesis": "They were the top football team for less than 8 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started on 8th and lasted until 26th.", "Hypothesis": "They toured parts of Europe for 19 days.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 23:00 to 07:00.", "Hypothesis": "The storm lasted for 80 hours.", "Label": "Contradiction"}
+{"Premise": "The train journey from Seattle to Portland lasted from 4 PM to 3 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 110 hours.", "Label": "Entailment"}
+{"Premise": "They were the top football team from May to March.", "Hypothesis": "They were the top football team for 11 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 14th to 23rd.", "Hypothesis": "The storm lasted for 90 days.", "Label": "Contradiction"}
+{"Premise": "The storm began at 1 PM and lasted until 5 AM.", "Hypothesis": "The storm lasted for less than 17 hours.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in Aug 1904 and graduated in February 1932.", "Hypothesis": "I pursued my bachelors degree for less than 331 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from January to December.", "Hypothesis": "They were the top football team for less than 12 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Sunday to Thursday.", "Hypothesis": "They toured parts of Europe for less than 40 days.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents from Monday to Thursday.", "Hypothesis": "Robin visited her parents for 3 days.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 8 PM and reached Portland at 5 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 10 hours.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from May 1917 to October 1983.", "Hypothesis": "They were the top football team for 664 years 2 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in Sep and lasted until Jun.", "Hypothesis": "They toured parts of Europe for 9 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in Jan 1943 and remained so until March 1963.", "Hypothesis": "They were the top football team for 201 years 8 months.", "Label": "Contradiction"}
+{"Premise": "The court case started in Mar and ended in April.", "Hypothesis": "The court case lasted for 10 months.", "Label": "Contradiction"}
+{"Premise": "The storm began at 2 PM and lasted until 10 PM.", "Hypothesis": "The storm lasted for less than 9 hours.", "Label": "Entailment"}
+{"Premise": "They were the top football team from December to April.", "Hypothesis": "They were the top football team for less than 40 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Sunday to Saturday.", "Hypothesis": "They toured parts of Europe for less than 60 days.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from 17th to 27th.", "Hypothesis": "They toured parts of Europe for 10 days.", "Label": "Entailment"}
+{"Premise": "Robin's visit to her parents' started on Wednesday and ended on Thursday.", "Hypothesis": "Robin visited her parents for less than 10 days.", "Label": "Entailment"}
+{"Premise": "The storm began on 6th and lasted until 16th.", "Hypothesis": "The storm lasted for less than 10 days.", "Label": "Contradiction"}
+{"Premise": "The storm began on Monday and lasted until Sunday.", "Hypothesis": "The storm lasted for 6 days.", "Label": "Entailment"}
+{"Premise": "They became the top football team in Aug 1907 and remained so until Dec 1936.", "Hypothesis": "They were the top football team for 352 months.", "Label": "Entailment"}
+{"Premise": "The court case started on Monday and ended on Saturday.", "Hypothesis": "The court case lasted for 5 days.", "Label": "Entailment"}
+{"Premise": "The court case started in August and ended in November.", "Hypothesis": "The court case lasted for less than 30 months.", "Label": "Entailment"}
+{"Premise": "The court case lasted from June to Aug.", "Hypothesis": "The court case lasted for less than 3 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 8 AM to 18:00.", "Hypothesis": "The storm lasted for less than 100 hours.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in Nov and lasted until Sep.", "Hypothesis": "They toured parts of Europe for less than 10 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in August and remained so until February.", "Hypothesis": "They were the top football team for 6 months.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from Oct to Jan.", "Hypothesis": "They toured parts of Europe for less than 3 months.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from June 1905 to Oct 1966.", "Hypothesis": "I pursued my bachelors degree for 736 months.", "Label": "Entailment"}
+{"Premise": "The court case started on Monday and ended on Wednesday.", "Hypothesis": "The court case lasted for less than 20 days.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia began on Monday and ended on Friday.", "Hypothesis": "India played Australia for 5 days.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 23:00 and reached Portland at 4 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 5 hours.", "Label": "Entailment"}
+{"Premise": "They were the top football team from Aug 1902 to February 1973.", "Hypothesis": "They were the top football team for 8460 months.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 02:00 and reached Portland at 21:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 19 hours.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from Aug 1918 to July 1941.", "Hypothesis": "I pursued my bachelors degree for less than 276 months.", "Label": "Entailment"}
+{"Premise": "The court case started in Jan and ended in Apr.", "Hypothesis": "The court case lasted for 3 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from January to December.", "Hypothesis": "They were the top football team for less than 110 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from Jan to Jul.", "Hypothesis": "They were the top football team for less than 6 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from March to December.", "Hypothesis": "The court case lasted for less than 10 months.", "Label": "Entailment"}
+{"Premise": "The court case lasted from May to March.", "Hypothesis": "The court case lasted for 10 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from 1907 to 1977.", "Hypothesis": "They were the top football team for 700 years.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from Oct 1917 to December 1920.", "Hypothesis": "They were the top football team for less than 380 months.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents from 13th to 17th.", "Hypothesis": "Robin visited her parents for 4 days.", "Label": "Entailment"}
+{"Premise": "They became the top football team in September 1904 and remained so until Apr 1923.", "Hypothesis": "They were the top football team for less than 2230 months.", "Label": "Entailment"}
+{"Premise": "The court case lasted from Tuesday to Thursday.", "Hypothesis": "The court case lasted for less than 3 days.", "Label": "Entailment"}
+{"Premise": "The court case started in July and ended in Feb.", "Hypothesis": "The court case lasted for less than 8 months.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 10:00 to 5 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 20 hours.", "Label": "Contradiction"}
+{"Premise": "The court case started on Friday and ended on Wednesday.", "Hypothesis": "The court case lasted for 5 days.", "Label": "Entailment"}
+{"Premise": "The storm began at 07:00 and lasted until 14:00.", "Hypothesis": "The storm lasted for 8 hours.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from April 1961 to June 1986.", "Hypothesis": "They were the top football team for 251 years 8 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from May to Jul.", "Hypothesis": "The court case lasted for less than 3 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in June and remained so until Jan.", "Hypothesis": "They were the top football team for less than 70 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from November to Jan.", "Hypothesis": "They were the top football team for less than 2 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in September and remained so until June.", "Hypothesis": "They were the top football team for 9 months.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in 1934 and graduated in 1937.", "Hypothesis": "I pursued my bachelors degree for 30 years.", "Label": "Contradiction"}
+{"Premise": "The match between India and Australia began on Tuesday and ended on Wednesday.", "Hypothesis": "India played Australia for 2 days.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 09:00 and reached Portland at 21:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 12 hours.", "Label": "Entailment"}
+{"Premise": "The storm began on Friday and lasted until Saturday.", "Hypothesis": "The storm lasted for less than 10 days.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started on Wednesday and lasted until Friday.", "Hypothesis": "They toured parts of Europe for less than 3 days.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in Nov and lasted until Sep.", "Hypothesis": "They toured parts of Europe for less than 11 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in May 1936 and remained so until August 1992.", "Hypothesis": "They were the top football team for less than 56 years 4 months.", "Label": "Entailment"}
+{"Premise": "The storm began on Saturday and lasted until Tuesday.", "Hypothesis": "The storm lasted for 3 days.", "Label": "Entailment"}
+{"Premise": "The court case lasted from Thursday to Wednesday.", "Hypothesis": "The court case lasted for 7 days.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from October to March.", "Hypothesis": "They toured parts of Europe for less than 6 months.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 06:00 and reached Portland at 11:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 5 hours.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 11 PM to 01:00.", "Hypothesis": "The storm lasted for less than 2 hours.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Dec and remained so until August.", "Hypothesis": "They were the top football team for 9 months.", "Label": "Contradiction"}
+{"Premise": "India played Australia from Tuesday to Monday.", "Hypothesis": "India played Australia for less than 7 days.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started on Sunday and lasted until Wednesday.", "Hypothesis": "They toured parts of Europe for less than 30 days.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 8 PM to 2 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 6 hours.", "Label": "Contradiction"}
+{"Premise": "The train journey from Seattle to Portland lasted from 20:00 to 1 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 50 hours.", "Label": "Entailment"}
+{"Premise": "The storm began at 9 PM and lasted until 16:00.", "Hypothesis": "The storm lasted for less than 20 hours.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 2 PM to 9 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 8 hours.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Oct to Jul.", "Hypothesis": "They toured parts of Europe for less than 10 months.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in November and lasted until Jan.", "Hypothesis": "They toured parts of Europe for 20 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 12 AM to 8 PM.", "Hypothesis": "The storm lasted for less than 21 hours.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 14:00 to 09:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 20 hours.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in November and lasted until May.", "Hypothesis": "They toured parts of Europe for 6 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in May 1901 and remained so until Sep 1969.", "Hypothesis": "They were the top football team for 820 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 5 AM to 11 PM.", "Hypothesis": "The storm lasted for less than 180 hours.", "Label": "Entailment"}
+{"Premise": "The court case lasted from Jan to November.", "Hypothesis": "The court case lasted for less than 100 months.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in May 1932 and graduated in December 1961.", "Hypothesis": "I pursued my bachelors degree for 29 years 8 months.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents from Wednesday to Monday.", "Hypothesis": "Robin visited her parents for 6 days.", "Label": "Contradiction"}
+{"Premise": "The train journey from Seattle to Portland lasted from 09:00 to 19:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 100 hours.", "Label": "Entailment"}
+{"Premise": "The court case started on Saturday and ended on Sunday.", "Hypothesis": "The court case lasted for less than 2 days.", "Label": "Entailment"}
+{"Premise": "India played Australia from 7th to 17th.", "Hypothesis": "India played Australia for less than 10 days.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in March 1918 and graduated in July 1936.", "Hypothesis": "I pursued my bachelors degree for 220 months.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 02:00 and reached Portland at 21:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 190 hours.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 8 AM to 3 PM.", "Hypothesis": "The storm lasted for 8 hours.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from Sunday to Friday.", "Hypothesis": "The storm lasted for 5 days.", "Label": "Entailment"}
+{"Premise": "The storm began on 11th and lasted until 16th.", "Hypothesis": "The storm lasted for less than 6 days.", "Label": "Entailment"}
+{"Premise": "They became the top football team in Oct and remained so until Jun.", "Hypothesis": "They were the top football team for 80 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 05:00 to 3 AM.", "Hypothesis": "The storm lasted for 22 hours.", "Label": "Entailment"}
+{"Premise": "Robin's visit to her parents' started on 2nd and ended on 22nd.", "Hypothesis": "Robin visited her parents for less than 21 days.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started on 2nd and lasted until 26th.", "Hypothesis": "They toured parts of Europe for less than 25 days.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from Oct 1953 to Feb 1991.", "Hypothesis": "I pursued my bachelors degree for less than 37 years 5 months.", "Label": "Entailment"}
+{"Premise": "The storm began on Sunday and lasted until Monday.", "Hypothesis": "The storm lasted for 2 days.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents from 8th to 9th.", "Hypothesis": "Robin visited her parents for 2 days.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from June 1905 to Oct 1966.", "Hypothesis": "I pursued my bachelors degree for less than 737 months.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in June and lasted until October.", "Hypothesis": "They toured parts of Europe for 5 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from February to October.", "Hypothesis": "The court case lasted for 9 months.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Friday to Sunday.", "Hypothesis": "They toured parts of Europe for less than 3 days.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in Oct 1920 and graduated in Aug 1933.", "Hypothesis": "I pursued my bachelors degree for 154 months.", "Label": "Entailment"}
+{"Premise": "The court case started on Monday and ended on Saturday.", "Hypothesis": "The court case lasted for 6 days.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in November and lasted until Jan.", "Hypothesis": "They toured parts of Europe for less than 3 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in March and remained so until August.", "Hypothesis": "They were the top football team for 50 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 16th to 27th.", "Hypothesis": "The storm lasted for 12 days.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 20th to 23rd.", "Hypothesis": "The storm lasted for 30 days.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in October and remained so until November.", "Hypothesis": "They were the top football team for less than 1 month.", "Label": "Contradiction"}
+{"Premise": "The train journey from Seattle to Portland lasted from 8 PM to 2 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 7 hours.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from 1907 to 1977.", "Hypothesis": "They were the top football team for 71 years.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 18:00 and reached Portland at 09:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 15 hours.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from November 1916 to September 1965.", "Hypothesis": "I pursued my bachelors degree for less than 587 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from Jun to Apr.", "Hypothesis": "They were the top football team for 10 months.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia began on 10th and ended on 15th.", "Hypothesis": "India played Australia for 50 days.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 8 AM to 20:00.", "Hypothesis": "The storm lasted for less than 12 hours.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from October 1905 to April 1997.", "Hypothesis": "I pursued my bachelors degree for 1099 months.", "Label": "Contradiction"}
+{"Premise": "The court case started in Jan and ended in Apr.", "Hypothesis": "The court case lasted for less than 3 months.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from Nov to Apr.", "Hypothesis": "They were the top football team for less than 5 months.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents from Friday to Tuesday.", "Hypothesis": "Robin visited her parents for 40 days.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from Apr to Jun.", "Hypothesis": "The court case lasted for less than 3 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from Sunday to Monday.", "Hypothesis": "The storm lasted for 2 days.", "Label": "Contradiction"}
+{"Premise": "The storm began at 06:00 and lasted until 10 AM.", "Hypothesis": "The storm lasted for less than 4 hours.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in February and remained so until Mar.", "Hypothesis": "They were the top football team for 10 months.", "Label": "Contradiction"}
+{"Premise": "The court case started in Jan and ended in Apr.", "Hypothesis": "The court case lasted for 4 months.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from Nov to Apr.", "Hypothesis": "They were the top football team for less than 6 months.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 4 AM and reached Portland at 9 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 170 hours.", "Label": "Contradiction"}
+{"Premise": "The storm began at 20:00 and lasted until 08:00.", "Hypothesis": "The storm lasted for less than 120 hours.", "Label": "Entailment"}
+{"Premise": "The court case lasted from January to Aug.", "Hypothesis": "The court case lasted for 70 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in November and lasted until January.", "Hypothesis": "They toured parts of Europe for 3 months.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 11 AM and reached Portland at 4 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 5 hours.", "Label": "Contradiction"}
+{"Premise": "The storm began at 06:00 and lasted until 18:00.", "Hypothesis": "The storm lasted for 13 hours.", "Label": "Contradiction"}
+{"Premise": "The train journey from Seattle to Portland lasted from 22:00 to 1 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 4 hours.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from May 1917 to October 1983.", "Hypothesis": "They were the top football team for less than 664 years 2 months.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in July and lasted until October.", "Hypothesis": "They toured parts of Europe for less than 3 months.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from June 1939 to September 1974.", "Hypothesis": "They were the top football team for 35 years 4 months.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from May 1950 to Jul 1986.", "Hypothesis": "They were the top football team for less than 36 years 3 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from May to Feb.", "Hypothesis": "They were the top football team for 90 months.", "Label": "Contradiction"}
+{"Premise": "The storm began at 05:00 and lasted until 01:00.", "Hypothesis": "The storm lasted for 21 hours.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Dec to Oct.", "Hypothesis": "They toured parts of Europe for 11 months.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from July to Apr.", "Hypothesis": "The court case lasted for less than 9 months.", "Label": "Contradiction"}
+{"Premise": "The storm began at 8 PM and lasted until 6 AM.", "Hypothesis": "The storm lasted for less than 11 hours.", "Label": "Entailment"}
+{"Premise": "They became the top football team in March 1948 and remained so until January 1995.", "Hypothesis": "They were the top football team for less than 562 months.", "Label": "Contradiction"}
+{"Premise": "The court case started in July and ended in Feb.", "Hypothesis": "The court case lasted for 70 months.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from Apr 1904 to Jun 1960.", "Hypothesis": "I pursued my bachelors degree for less than 561 years 8 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from 1962 to 1985.", "Hypothesis": "They were the top football team for less than 230 years.", "Label": "Entailment"}
+{"Premise": "The storm began at 10 AM and lasted until 9 PM.", "Hypothesis": "The storm lasted for 12 hours.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from December to February.", "Hypothesis": "They toured parts of Europe for less than 20 months.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents from Saturday to Friday.", "Hypothesis": "Robin visited her parents for less than 7 days.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 18:00 and reached Portland at 09:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for 150 hours.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from 1973 to 1996.", "Hypothesis": "They were the top football team for less than 23 years.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from Oct 1915 to Nov 1976.", "Hypothesis": "They were the top football team for less than 7330 months.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in November and lasted until May.", "Hypothesis": "They toured parts of Europe for 7 months.", "Label": "Contradiction"}
+{"Premise": "The storm began at 3 PM and lasted until 02:00.", "Hypothesis": "The storm lasted for 11 hours.", "Label": "Entailment"}
+{"Premise": "The court case started in May and ended in August.", "Hypothesis": "The court case lasted for less than 3 months.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in Jan 1929 and graduated in Feb 1934.", "Hypothesis": "I pursued my bachelors degree for 50 years 10 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 12:00 to 19:00.", "Hypothesis": "The storm lasted for 8 hours.", "Label": "Contradiction"}
+{"Premise": "The storm began on Saturday and lasted until Tuesday.", "Hypothesis": "The storm lasted for less than 3 days.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from November 1965 to Apr 1979.", "Hypothesis": "I pursued my bachelors degree for less than 161 months.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from January 1959 to November 1999.", "Hypothesis": "I pursued my bachelors degree for 40 years 10 months.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in Aug 1907 and graduated in Jan 1964.", "Hypothesis": "I pursued my bachelors degree for less than 6770 months.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started on 17th and lasted until 27th.", "Hypothesis": "They toured parts of Europe for 10 days.", "Label": "Entailment"}
+{"Premise": "The storm began at 8 PM and lasted until 6 AM.", "Hypothesis": "The storm lasted for 10 hours.", "Label": "Entailment"}
+{"Premise": "They became the top football team in April and remained so until August.", "Hypothesis": "They were the top football team for less than 5 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 04:00 to 23:00.", "Hypothesis": "The storm lasted for less than 190 hours.", "Label": "Entailment"}
+{"Premise": "The storm began at 2 PM and lasted until 10 PM.", "Hypothesis": "The storm lasted for 9 hours.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in July 1920 and graduated in Jul 1926.", "Hypothesis": "I pursued my bachelors degree for 72 months.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from 1901 to 1951.", "Hypothesis": "I pursued my bachelors degree for less than 50 years.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from December 1929 to January 1992.", "Hypothesis": "They were the top football team for 745 months.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 3 PM to 5 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 2 hours.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 05:00 to 03:00.", "Hypothesis": "The storm lasted for less than 220 hours.", "Label": "Entailment"}
+{"Premise": "The storm began at 03:00 and lasted until 8 AM.", "Hypothesis": "The storm lasted for 50 hours.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 9 PM to 15:00.", "Hypothesis": "The storm lasted for less than 19 hours.", "Label": "Entailment"}
+{"Premise": "Their tour of Europe started in May and lasted until Feb.", "Hypothesis": "They toured parts of Europe for less than 90 months.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents from Sunday to Monday.", "Hypothesis": "Robin visited her parents for 2 days.", "Label": "Contradiction"}
+{"Premise": "The court case lasted from Nov to March.", "Hypothesis": "The court case lasted for 5 months.", "Label": "Contradiction"}
+{"Premise": "The court case started on Monday and ended on Tuesday.", "Hypothesis": "The court case lasted for less than 1 day.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from April to June.", "Hypothesis": "They toured parts of Europe for less than 2 months.", "Label": "Contradiction"}
+{"Premise": "The train journey from Seattle to Portland lasted from 10:00 to 5 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 190 hours.", "Label": "Entailment"}
+{"Premise": "India played Australia from Saturday to Monday.", "Hypothesis": "India played Australia for less than 20 days.", "Label": "Entailment"}
+{"Premise": "The storm began on Thursday and lasted until Wednesday.", "Hypothesis": "The storm lasted for 7 days.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from 1928 to 1944.", "Hypothesis": "I pursued my bachelors degree for less than 17 years.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in Feb 1944 and graduated in March 1973.", "Hypothesis": "I pursued my bachelors degree for 349 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in December 1966 and remained so until December 1978.", "Hypothesis": "They were the top football team for 144 months.", "Label": "Entailment"}
+{"Premise": "The court case lasted from January to Aug.", "Hypothesis": "The court case lasted for 7 months.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents from Tuesday to Thursday.", "Hypothesis": "Robin visited her parents for less than 2 days.", "Label": "Contradiction"}
+{"Premise": "India played Australia from Wednesday to Monday.", "Hypothesis": "India played Australia for less than 6 days.", "Label": "Entailment"}
+{"Premise": "They became the top football team in Oct 1950 and remained so until Feb 1968.", "Hypothesis": "They were the top football team for less than 17 years 4 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in 1961 and remained so until 1962.", "Hypothesis": "They were the top football team for 2 years.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from August 1908 to May 1944.", "Hypothesis": "They were the top football team for less than 429 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in September and lasted until Mar.", "Hypothesis": "They toured parts of Europe for less than 7 months.", "Label": "Entailment"}
+{"Premise": "The court case started in September and ended in March.", "Hypothesis": "The court case lasted for 60 months.", "Label": "Contradiction"}
+{"Premise": "The storm began at 1 PM and lasted until 03:00.", "Hypothesis": "The storm lasted for less than 140 hours.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 22:00 to 11:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 14 hours.", "Label": "Entailment"}
+{"Premise": "India played Australia from Thursday to Saturday.", "Hypothesis": "India played Australia for 3 days.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from Mar 1946 to February 1986.", "Hypothesis": "They were the top football team for less than 4790 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in July and remained so until Dec.", "Hypothesis": "They were the top football team for 50 months.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from March to May.", "Hypothesis": "They toured parts of Europe for less than 20 months.", "Label": "Entailment"}
+{"Premise": "The train journey from Seattle to Portland lasted from 17:00 to 09:00.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 17 hours.", "Label": "Entailment"}
+{"Premise": "The court case started on Saturday and ended on Sunday.", "Hypothesis": "The court case lasted for 2 days.", "Label": "Contradiction"}
+{"Premise": "The court case started in Oct and ended in Jul.", "Hypothesis": "The court case lasted for 10 months.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in April 1943 and graduated in August 1973.", "Hypothesis": "I pursued my bachelors degree for 30 years 5 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started on Saturday and lasted until Monday.", "Hypothesis": "They toured parts of Europe for 3 days.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from 1923 to 1950.", "Hypothesis": "I pursued my bachelors degree for 270 years.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Feb and remained so until Oct.", "Hypothesis": "They were the top football team for 80 months.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle started at 6 PM and reached Portland at 4 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 23 hours.", "Label": "Entailment"}
+{"Premise": "I pursued my bachelors degree from April 1918 to March 1956.", "Hypothesis": "I pursued my bachelors degree for less than 456 months.", "Label": "Entailment"}
+{"Premise": "They were the top football team from Nov to Apr.", "Hypothesis": "They were the top football team for 6 months.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from December 1907 to Jan 1966.", "Hypothesis": "They were the top football team for 698 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Apr 1937 and remained so until October 1999.", "Hypothesis": "They were the top football team for 7500 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started on 2nd and lasted until 26th.", "Hypothesis": "They toured parts of Europe for less than 240 days.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 8 AM to 18:00.", "Hypothesis": "The storm lasted for 10 hours.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 11 AM and reached Portland at 9 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 10 hours.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 10:00 and reached Portland at 3 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for less than 6 hours.", "Label": "Entailment"}
+{"Premise": "The court case started in Feb and ended in Oct.", "Hypothesis": "The court case lasted for 80 months.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Aug to May.", "Hypothesis": "They toured parts of Europe for 10 months.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from December to May.", "Hypothesis": "They were the top football team for less than 50 months.", "Label": "Entailment"}
+{"Premise": "They became the top football team in October 1967 and remained so until August 1988.", "Hypothesis": "They were the top football team for less than 2500 months.", "Label": "Entailment"}
+{"Premise": "I started my bachelors in May 1916 and graduated in March 1984.", "Hypothesis": "I pursued my bachelors degree for 8140 months.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents from Wednesday to Sunday.", "Hypothesis": "Robin visited her parents for 40 days.", "Label": "Contradiction"}
+{"Premise": "The court case started on Monday and ended on Friday.", "Hypothesis": "The court case lasted for less than 4 days.", "Label": "Contradiction"}
+{"Premise": "Robin visited her parents from 3rd to 10th.", "Hypothesis": "Robin visited her parents for less than 8 days.", "Label": "Entailment"}
+{"Premise": "They toured parts of Europe from October to March.", "Hypothesis": "They toured parts of Europe for 6 months.", "Label": "Contradiction"}
+{"Premise": "The train journey from Seattle to Portland lasted from 22:00 to 2 PM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 17 hours.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from May 1911 to Oct 1928.", "Hypothesis": "I pursued my bachelors degree for less than 2090 months.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 8 AM to 3 PM.", "Hypothesis": "The storm lasted for 70 hours.", "Label": "Contradiction"}
+{"Premise": "The court case started in Mar and ended in April.", "Hypothesis": "The court case lasted for less than 2 months.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 07:00 and reached Portland at 3 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 20 hours.", "Label": "Entailment"}
+{"Premise": "They became the top football team in January 1931 and remained so until Sep 1998.", "Hypothesis": "They were the top football team for less than 812 months.", "Label": "Contradiction"}
+{"Premise": "I pursued my bachelors degree from August 1933 to May 1947.", "Hypothesis": "I pursued my bachelors degree for less than 13 years 9 months.", "Label": "Contradiction"}
+{"Premise": "I started my bachelors in August 1905 and graduated in June 1914.", "Hypothesis": "I pursued my bachelors degree for 8 years 11 months.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Feb to September.", "Hypothesis": "They toured parts of Europe for 8 months.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in 1901 and remained so until 1973.", "Hypothesis": "They were the top football team for less than 72 years.", "Label": "Contradiction"}
+{"Premise": "They became the top football team in Feb 1922 and remained so until May 1939.", "Hypothesis": "They were the top football team for less than 172 years 6 months.", "Label": "Entailment"}
+{"Premise": "Robin visited her parents from Tuesday to Friday.", "Hypothesis": "Robin visited her parents for 4 days.", "Label": "Contradiction"}
+{"Premise": "They toured parts of Europe from Sunday to Saturday.", "Hypothesis": "They toured parts of Europe for 60 days.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from Wednesday to Saturday.", "Hypothesis": "The storm lasted for less than 30 days.", "Label": "Entailment"}
+{"Premise": "The storm lasted from 5 AM to 11 PM.", "Hypothesis": "The storm lasted for less than 18 hours.", "Label": "Contradiction"}
+{"Premise": "The storm began at 06:00 and lasted until 14:00.", "Hypothesis": "The storm lasted for 8 hours.", "Label": "Entailment"}
+{"Premise": "The storm began at 8 AM and lasted until 1 PM.", "Hypothesis": "The storm lasted for 50 hours.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 23:00 to 07:00.", "Hypothesis": "The storm lasted for less than 80 hours.", "Label": "Entailment"}
+{"Premise": "The train from Seattle started at 6 AM and reached Portland at 12 AM.", "Hypothesis": "The train journey from Seattle to Portland lasted for 180 hours.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from 05:00 to 3 AM.", "Hypothesis": "The storm lasted for less than 23 hours.", "Label": "Entailment"}
+{"Premise": "They were the top football team from February 1906 to November 1976.", "Hypothesis": "They were the top football team for 850 months.", "Label": "Contradiction"}
+{"Premise": "They were the top football team from Jun to September.", "Hypothesis": "They were the top football team for 30 months.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe started in May and lasted until Jan.", "Hypothesis": "They toured parts of Europe for 9 months.", "Label": "Contradiction"}
+{"Premise": "The storm lasted from Saturday to Sunday.", "Hypothesis": "The storm lasted for less than 2 days.", "Label": "Entailment"}

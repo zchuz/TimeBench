@@ -1,0 +1,500 @@
+{"Premise": "Before 4 months, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister before 45 days.", "Label": "Neutral"}
+{"Premise": "Before 8 years, Lindsey will pay off her loans.", "Hypothesis": "After 149 months, Lindsey will pay off her loans.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding in 2 years.", "Hypothesis": "The startup will receive funding after 3 months.", "Label": "Entailment"}
+{"Premise": "I will graduate before 5 months.", "Hypothesis": "I will graduate before 197 days.", "Label": "Entailment"}
+{"Premise": "The grocery store will close in 7 days.", "Hypothesis": "Before 166 hours, the grocery store will close.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies after 5 years.", "Hypothesis": "Before 105 months, the government will issue new labor policies.", "Label": "Neutral"}
+{"Premise": "Before 9 days, Robin will visit her parents.", "Hypothesis": "After 148 hours, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "After 10 hours, the train from Seattle will depart.", "Hypothesis": "The train from Seattle will depart after 598 minutess.", "Label": "Entailment"}
+{"Premise": "In 3 hours, the grocery store will close.", "Hypothesis": "After 9 minutess, the grocery store will close.", "Label": "Entailment"}
+{"Premise": "Pixar will release an animated film in 8 years.", "Hypothesis": "Pixar will release an animated film before 126 months.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies after 9 months.", "Hypothesis": "After 299 days, the government will issue new labor policies.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies before 3 days.", "Hypothesis": "The government will issue new labor policies before 2 hours.", "Label": "Neutral"}
+{"Premise": "Before 9 months, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies before 156 days.", "Label": "Neutral"}
+{"Premise": "The startup will receive funding in 9 months.", "Hypothesis": "The startup will receive funding before 418 days.", "Label": "Entailment"}
+{"Premise": "In 8 days, the grocery store will close.", "Hypothesis": "The grocery store will close after 290 hours.", "Label": "Contradiction"}
+{"Premise": "Before 8 hours, the court case will begin.", "Hypothesis": "The court case will begin before 772 minutess.", "Label": "Entailment"}
+{"Premise": "They will become the top football team after 10 months.", "Hypothesis": "Before 313 days, they will become the top football team.", "Label": "Neutral"}
+{"Premise": "I will submit my PhD dissertation in 7 days.", "Hypothesis": "Before 126 hours, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "After 7 months, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation before 280 days.", "Label": "Neutral"}
+{"Premise": "In 6 years, Pixar will release an animated film.", "Hypothesis": "Before 130 months, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "In 10 years, the government will issue new labor policies.", "Hypothesis": "Before 105 months, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle will depart in 4 hours.", "Hypothesis": "Before 126 minutess, the train from Seattle will depart.", "Label": "Contradiction"}
+{"Premise": "In 5 months, I will start my bachelors.", "Hypothesis": "I will start my bachelors before 79 days.", "Label": "Contradiction"}
+{"Premise": "The storm will begin before 1 day.", "Hypothesis": "Before 9 hours, the storm will begin.", "Label": "Neutral"}
+{"Premise": "Before 5 months, I will submit my PhD dissertation.", "Hypothesis": "Before 205 days, I will submit my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "After 10 years, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies after 90 months.", "Label": "Entailment"}
+{"Premise": "After 8 months, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister after 92 days.", "Label": "Entailment"}
+{"Premise": "After 2 hours, the match between India and Australia will begin.", "Hypothesis": "After 363 minutess, the match between India and Australia will begin.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies in 8 months.", "Hypothesis": "The government will issue new labor policies before 273 days.", "Label": "Entailment"}
+{"Premise": "In 5 years, Lindsey will pay off her loans.", "Hypothesis": "After 12 months, Lindsey will pay off her loans.", "Label": "Entailment"}
+{"Premise": "Before 8 months, I will graduate.", "Hypothesis": "After 97 days, I will graduate.", "Label": "Neutral"}
+{"Premise": "In 2 days, the startup will receive funding.", "Hypothesis": "Before 160 hours, the startup will receive funding.", "Label": "Entailment"}
+{"Premise": "Before 7 months, I will graduate.", "Hypothesis": "I will graduate before 271 days.", "Label": "Entailment"}
+{"Premise": "I will start my bachelors after 2 years.", "Hypothesis": "Before 33 months, I will start my bachelors.", "Label": "Neutral"}
+{"Premise": "In 2 days, the grocery store will close.", "Hypothesis": "Before 100 hours, the grocery store will close.", "Label": "Entailment"}
+{"Premise": "Before 8 days, the grocery store will close.", "Hypothesis": "After 268 hours, the grocery store will close.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film in 8 years.", "Hypothesis": "Before 40 months, Pixar will release an animated film.", "Label": "Contradiction"}
+{"Premise": "Before 8 years, I will graduate.", "Hypothesis": "I will graduate before 49 months.", "Label": "Neutral"}
+{"Premise": "In 5 months, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation before 195 days.", "Label": "Entailment"}
+{"Premise": "In 6 months, I will start my bachelors.", "Hypothesis": "I will start my bachelors before 273 days.", "Label": "Entailment"}
+{"Premise": "I will start my bachelors in 9 months.", "Hypothesis": "I will start my bachelors before 276 days.", "Label": "Entailment"}
+{"Premise": "After 1 year, Lindsey will pay off her loans.", "Hypothesis": "After 3 months, Lindsey will pay off her loans.", "Label": "Entailment"}
+{"Premise": "The train from Seattle will depart in 6 hours.", "Hypothesis": "After 87 minutess, the train from Seattle will depart.", "Label": "Entailment"}
+{"Premise": "Before 6 years, I will graduate.", "Hypothesis": "After 67 months, I will graduate.", "Label": "Neutral"}
+{"Premise": "I will submit my PhD dissertation in 7 years.", "Hypothesis": "I will submit my PhD dissertation after 82 months.", "Label": "Entailment"}
+{"Premise": "Before 9 days, the storm will begin.", "Hypothesis": "The storm will begin after 292 hours.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film before 7 months.", "Hypothesis": "Pixar will release an animated film after 308 days.", "Label": "Contradiction"}
+{"Premise": "The storm will begin in 10 days.", "Hypothesis": "The storm will begin before 208 hours.", "Label": "Contradiction"}
+{"Premise": "In 1 month, the startup will receive funding.", "Hypothesis": "The startup will receive funding after 149 days.", "Label": "Contradiction"}
+{"Premise": "In 3 months, they will become the top football team.", "Hypothesis": "They will become the top football team after 169 days.", "Label": "Contradiction"}
+{"Premise": "Before 6 years, they will become the top football team.", "Hypothesis": "Before 39 months, they will become the top football team.", "Label": "Neutral"}
+{"Premise": "After 3 months, the court case will begin.", "Hypothesis": "The court case will begin before 121 days.", "Label": "Neutral"}
+{"Premise": "Robin will visit her parents in 10 months.", "Hypothesis": "Before 314 days, Robin will visit her parents.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister in 1 hour.", "Hypothesis": "After 45 minutess, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "After 3 hours, the train from Seattle will depart.", "Hypothesis": "Before 274 minutess, the train from Seattle will depart.", "Label": "Neutral"}
+{"Premise": "Before 9 years, Lindsey will pay off her loans.", "Hypothesis": "Lindsey will pay off her loans before 122 months.", "Label": "Entailment"}
+{"Premise": "In 2 years, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies before 49 months.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation before 9 days.", "Hypothesis": "After 97 hours, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "They will become the top football team before 7 years.", "Hypothesis": "After 122 months, they will become the top football team.", "Label": "Contradiction"}
+{"Premise": "After 6 years, I will graduate.", "Hypothesis": "I will graduate before 33 months.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film after 5 years.", "Hypothesis": "Pixar will release an animated film after 77 months.", "Label": "Neutral"}
+{"Premise": "Before 3 days, the grocery store will close.", "Hypothesis": "The grocery store will close after 54 hours.", "Label": "Neutral"}
+{"Premise": "The startup will receive funding after 8 days.", "Hypothesis": "Before 102 hours, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film in 10 years.", "Hypothesis": "Pixar will release an animated film before 168 months.", "Label": "Entailment"}
+{"Premise": "In 1 year, Pixar will release an animated film.", "Hypothesis": "After 17 months, Pixar will release an animated film.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation in 9 months.", "Hypothesis": "After 368 days, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister before 2 months.", "Hypothesis": "He will be sworn in as the Prime Minister before 79 days.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies before 5 days.", "Hypothesis": "After 237 hours, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "In 8 days, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies after 152 hours.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister in 2 months.", "Hypothesis": "Before 206 days, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "After 8 days, the storm will begin.", "Hypothesis": "After 90 hours, the storm will begin.", "Label": "Entailment"}
+{"Premise": "The court case will begin after 5 hours.", "Hypothesis": "After 508 minutess, the court case will begin.", "Label": "Neutral"}
+{"Premise": "The grocery store will close after 6 hours.", "Hypothesis": "The grocery store will close after 489 minutess.", "Label": "Neutral"}
+{"Premise": "I will graduate in 1 month.", "Hypothesis": "I will graduate before 13 days.", "Label": "Contradiction"}
+{"Premise": "After 3 months, I will start my bachelors.", "Hypothesis": "I will start my bachelors after 171 days.", "Label": "Neutral"}
+{"Premise": "The grocery store will close in 8 hours.", "Hypothesis": "The grocery store will close after 498 minutess.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation in 8 months.", "Hypothesis": "I will submit my PhD dissertation before 131 days.", "Label": "Contradiction"}
+{"Premise": "In 9 days, the storm will begin.", "Hypothesis": "The storm will begin before 133 hours.", "Label": "Contradiction"}
+{"Premise": "After 7 days, the startup will receive funding.", "Hypothesis": "Before 108 hours, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "The storm will begin after 10 days.", "Hypothesis": "The storm will begin before 123 hours.", "Label": "Contradiction"}
+{"Premise": "The court case will begin before 1 month.", "Hypothesis": "Before 120 days, the court case will begin.", "Label": "Entailment"}
+{"Premise": "Lindsey will pay off her loans before 2 years.", "Hypothesis": "After 25 months, Lindsey will pay off her loans.", "Label": "Contradiction"}
+{"Premise": "After 8 years, Lindsey will pay off her loans.", "Hypothesis": "Before 125 months, Lindsey will pay off her loans.", "Label": "Neutral"}
+{"Premise": "After 8 days, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister after 107 hours.", "Label": "Entailment"}
+{"Premise": "Before 9 days, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies before 162 hours.", "Label": "Neutral"}
+{"Premise": "After 9 years, Lindsey will pay off her loans.", "Hypothesis": "Lindsey will pay off her loans before 83 months.", "Label": "Contradiction"}
+{"Premise": "In 3 months, he will be sworn in as the Prime Minister.", "Hypothesis": "Before 1 day, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "Before 8 days, the grocery store will close.", "Hypothesis": "The grocery store will close before 89 hours.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies in 3 days.", "Hypothesis": "The government will issue new labor policies before 84 hours.", "Label": "Entailment"}
+{"Premise": "In 1 month, their tour of Europe will start.", "Hypothesis": "Before 21 days, their tour of Europe will start.", "Label": "Contradiction"}
+{"Premise": "In 7 years, Pixar will release an animated film.", "Hypothesis": "After 132 months, Pixar will release an animated film.", "Label": "Contradiction"}
+{"Premise": "After 7 hours, the train from Seattle will depart.", "Hypothesis": "The train from Seattle will depart after 328 minutess.", "Label": "Entailment"}
+{"Premise": "Before 9 months, I will graduate.", "Hypothesis": "Before 374 days, I will graduate.", "Label": "Entailment"}
+{"Premise": "After 9 days, the grocery store will close.", "Hypothesis": "After 220 hours, the grocery store will close.", "Label": "Neutral"}
+{"Premise": "Robin will visit her parents in 10 months.", "Hypothesis": "Robin will visit her parents before 183 days.", "Label": "Contradiction"}
+{"Premise": "After 6 days, the court case will begin.", "Hypothesis": "The court case will begin after 247 hours.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies after 8 days.", "Hypothesis": "The government will issue new labor policies after 308 hours.", "Label": "Neutral"}
+{"Premise": "I will submit my PhD dissertation after 8 years.", "Hypothesis": "After 144 months, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "The startup will receive funding after 3 years.", "Hypothesis": "The startup will receive funding before 7 months.", "Label": "Contradiction"}
+{"Premise": "In 5 days, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies after 160 hours.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding in 6 years.", "Hypothesis": "The startup will receive funding after 86 months.", "Label": "Contradiction"}
+{"Premise": "Before 6 hours, the grocery store will close.", "Hypothesis": "After 561 minutess, the grocery store will close.", "Label": "Contradiction"}
+{"Premise": "In 8 days, Robin will visit her parents.", "Hypothesis": "After 293 hours, Robin will visit her parents.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding in 2 years.", "Hypothesis": "The startup will receive funding before 12 months.", "Label": "Contradiction"}
+{"Premise": "Before 5 months, their tour of Europe will start.", "Hypothesis": "After 289 days, their tour of Europe will start.", "Label": "Contradiction"}
+{"Premise": "The grocery store will close before 3 hours.", "Hypothesis": "The grocery store will close before 389 minutess.", "Label": "Entailment"}
+{"Premise": "In 5 days, the storm will begin.", "Hypothesis": "The storm will begin before 13 hours.", "Label": "Contradiction"}
+{"Premise": "After 5 hours, the court case will begin.", "Hypothesis": "The court case will begin before 187 minutess.", "Label": "Contradiction"}
+{"Premise": "In 10 months, they will become the top football team.", "Hypothesis": "They will become the top football team after 211 days.", "Label": "Entailment"}
+{"Premise": "Robin will visit her parents in 5 days.", "Hypothesis": "Robin will visit her parents before 219 hours.", "Label": "Entailment"}
+{"Premise": "The storm will begin before 1 day.", "Hypothesis": "The storm will begin after 18 hours.", "Label": "Neutral"}
+{"Premise": "I will graduate in 2 years.", "Hypothesis": "I will graduate after 10 months.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia will begin in 8 hours.", "Hypothesis": "The match between India and Australia will begin after 262 minutess.", "Label": "Entailment"}
+{"Premise": "Robin will visit her parents after 6 months.", "Hypothesis": "Before 247 days, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "Their tour of Europe will start after 5 months.", "Hypothesis": "Their tour of Europe will start before 203 days.", "Label": "Neutral"}
+{"Premise": "They will become the top football team in 2 years.", "Hypothesis": "They will become the top football team after 30 months.", "Label": "Contradiction"}
+{"Premise": "After 3 months, their tour of Europe will start.", "Hypothesis": "Their tour of Europe will start after 49 days.", "Label": "Entailment"}
+{"Premise": "I will start my bachelors after 3 months.", "Hypothesis": "I will start my bachelors before 4 days.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle will depart after 1 hour.", "Hypothesis": "After 360 minutess, the train from Seattle will depart.", "Label": "Neutral"}
+{"Premise": "I will submit my PhD dissertation after 7 years.", "Hypothesis": "After 100 months, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "In 1 month, their tour of Europe will start.", "Hypothesis": "Their tour of Europe will start before 14 days.", "Label": "Contradiction"}
+{"Premise": "Before 1 day, the startup will receive funding.", "Hypothesis": "Before 10 hours, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies in 4 months.", "Hypothesis": "After 160 days, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "In 5 years, I will graduate.", "Hypothesis": "I will graduate before 119 months.", "Label": "Entailment"}
+{"Premise": "In 6 hours, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister before 551 minutess.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation after 4 days.", "Hypothesis": "After 64 hours, I will submit my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "The startup will receive funding before 3 days.", "Hypothesis": "Before 49 hours, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "In 8 months, he will be sworn in as the Prime Minister.", "Hypothesis": "Before 264 days, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "Before 8 months, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation before 106 days.", "Label": "Neutral"}
+{"Premise": "After 2 days, the match between India and Australia will begin.", "Hypothesis": "Before 3 hours, the match between India and Australia will begin.", "Label": "Contradiction"}
+{"Premise": "Lindsey will pay off her loans after 1 year.", "Hypothesis": "Before 15 months, Lindsey will pay off her loans.", "Label": "Neutral"}
+{"Premise": "Before 10 hours, he will be sworn in as the Prime Minister.", "Hypothesis": "After 599 minutess, he will be sworn in as the Prime Minister.", "Label": "Neutral"}
+{"Premise": "After 5 days, Robin will visit her parents.", "Hypothesis": "Robin will visit her parents before 172 hours.", "Label": "Neutral"}
+{"Premise": "In 3 days, the storm will begin.", "Hypothesis": "Before 51 hours, the storm will begin.", "Label": "Contradiction"}
+{"Premise": "After 10 months, their tour of Europe will start.", "Hypothesis": "Before 283 days, their tour of Europe will start.", "Label": "Contradiction"}
+{"Premise": "After 1 day, the match between India and Australia will begin.", "Hypothesis": "The match between India and Australia will begin after 115 hours.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies in 8 years.", "Hypothesis": "After 75 months, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "Before 6 years, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation after 129 months.", "Label": "Contradiction"}
+{"Premise": "In 4 months, the startup will receive funding.", "Hypothesis": "Before 32 days, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies before 1 day.", "Hypothesis": "After 108 hours, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "Before 5 hours, the match between India and Australia will begin.", "Hypothesis": "The match between India and Australia will begin after 567 minutess.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation in 10 years.", "Hypothesis": "I will submit my PhD dissertation before 63 months.", "Label": "Contradiction"}
+{"Premise": "After 1 day, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation after 49 hours.", "Label": "Neutral"}
+{"Premise": "I will submit my PhD dissertation after 3 days.", "Hypothesis": "I will submit my PhD dissertation after 171 hours.", "Label": "Neutral"}
+{"Premise": "After 1 year, Lindsey will pay off her loans.", "Hypothesis": "Before 15 months, Lindsey will pay off her loans.", "Label": "Neutral"}
+{"Premise": "After 3 months, the startup will receive funding.", "Hypothesis": "After 39 days, the startup will receive funding.", "Label": "Entailment"}
+{"Premise": "Before 1 day, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation before 20 hours.", "Label": "Neutral"}
+{"Premise": "Pixar will release an animated film before 7 months.", "Hypothesis": "Before 202 days, Pixar will release an animated film.", "Label": "Neutral"}
+{"Premise": "Before 9 days, he will be sworn in as the Prime Minister.", "Hypothesis": "After 267 hours, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "After 3 hours, the court case will begin.", "Hypothesis": "The court case will begin after 83 minutess.", "Label": "Entailment"}
+{"Premise": "I will graduate in 6 years.", "Hypothesis": "I will graduate after 93 months.", "Label": "Contradiction"}
+{"Premise": "In 2 years, the startup will receive funding.", "Hypothesis": "The startup will receive funding before 13 months.", "Label": "Contradiction"}
+{"Premise": "In 4 years, I will start my bachelors.", "Hypothesis": "Before 11 months, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding before 1 day.", "Hypothesis": "After 21 hours, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "The startup will receive funding before 4 years.", "Hypothesis": "The startup will receive funding after 88 months.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister after 8 months.", "Hypothesis": "He will be sworn in as the Prime Minister after 267 days.", "Label": "Neutral"}
+{"Premise": "Before 10 days, the court case will begin.", "Hypothesis": "Before 238 hours, the court case will begin.", "Label": "Neutral"}
+{"Premise": "Before 1 month, Pixar will release an animated film.", "Hypothesis": "Pixar will release an animated film before 21 days.", "Label": "Neutral"}
+{"Premise": "He will be sworn in as the Prime Minister after 6 days.", "Hypothesis": "He will be sworn in as the Prime Minister before 120 hours.", "Label": "Contradiction"}
+{"Premise": "In 9 days, the grocery store will close.", "Hypothesis": "After 317 hours, the grocery store will close.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation after 9 months.", "Hypothesis": "I will submit my PhD dissertation before 215 days.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister in 6 hours.", "Hypothesis": "After 83 minutess, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "The storm will begin before 7 days.", "Hypothesis": "Before 224 hours, the storm will begin.", "Label": "Entailment"}
+{"Premise": "Before 10 months, their tour of Europe will start.", "Hypothesis": "After 165 days, their tour of Europe will start.", "Label": "Neutral"}
+{"Premise": "In 9 years, I will submit my PhD dissertation.", "Hypothesis": "After 153 months, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "Before 6 hours, the train from Seattle will depart.", "Hypothesis": "The train from Seattle will depart before 650 minutess.", "Label": "Entailment"}
+{"Premise": "Pixar will release an animated film before 2 years.", "Hypothesis": "Pixar will release an animated film before 4 months.", "Label": "Neutral"}
+{"Premise": "The match between India and Australia will begin before 5 days.", "Hypothesis": "Before 202 hours, the match between India and Australia will begin.", "Label": "Entailment"}
+{"Premise": "After 6 days, the storm will begin.", "Hypothesis": "After 53 hours, the storm will begin.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies after 4 months.", "Hypothesis": "After 31 days, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister after 8 hours.", "Hypothesis": "Before 185 minutess, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "In 7 days, the match between India and Australia will begin.", "Hypothesis": "The match between India and Australia will begin before 125 hours.", "Label": "Contradiction"}
+{"Premise": "The match between India and Australia will begin after 1 day.", "Hypothesis": "The match between India and Australia will begin after 30 hours.", "Label": "Neutral"}
+{"Premise": "In 8 days, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies before 119 hours.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation after 10 days.", "Hypothesis": "After 248 hours, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "The court case will begin before 5 hours.", "Hypothesis": "The court case will begin after 301 minutess.", "Label": "Contradiction"}
+{"Premise": "Before 6 days, Robin will visit her parents.", "Hypothesis": "Before 203 hours, Robin will visit her parents.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister after 8 months.", "Hypothesis": "He will be sworn in as the Prime Minister after 181 days.", "Label": "Entailment"}
+{"Premise": "Robin will visit her parents after 7 months.", "Hypothesis": "After 301 days, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "Pixar will release an animated film after 6 years.", "Hypothesis": "Before 108 months, Pixar will release an animated film.", "Label": "Neutral"}
+{"Premise": "Before 6 months, the startup will receive funding.", "Hypothesis": "The startup will receive funding after 237 days.", "Label": "Contradiction"}
+{"Premise": "After 10 years, I will start my bachelors.", "Hypothesis": "I will start my bachelors after 89 months.", "Label": "Entailment"}
+{"Premise": "The court case will begin in 10 hours.", "Hypothesis": "The court case will begin after 697 minutess.", "Label": "Contradiction"}
+{"Premise": "The grocery store will close after 6 hours.", "Hypothesis": "Before 340 minutess, the grocery store will close.", "Label": "Contradiction"}
+{"Premise": "They will become the top football team after 2 years.", "Hypothesis": "They will become the top football team before 21 months.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister before 9 days.", "Hypothesis": "He will be sworn in as the Prime Minister before 126 hours.", "Label": "Neutral"}
+{"Premise": "I will start my bachelors after 3 months.", "Hypothesis": "Before 137 days, I will start my bachelors.", "Label": "Neutral"}
+{"Premise": "Before 2 hours, the grocery store will close.", "Hypothesis": "After 144 minutess, the grocery store will close.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies after 9 months.", "Hypothesis": "The government will issue new labor policies before 398 days.", "Label": "Neutral"}
+{"Premise": "In 2 years, I will graduate.", "Hypothesis": "After 21 months, I will graduate.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia will begin after 9 hours.", "Hypothesis": "The match between India and Australia will begin after 813 minutess.", "Label": "Neutral"}
+{"Premise": "In 6 months, the court case will begin.", "Hypothesis": "After 115 days, the court case will begin.", "Label": "Entailment"}
+{"Premise": "In 5 months, the court case will begin.", "Hypothesis": "After 35 days, the court case will begin.", "Label": "Entailment"}
+{"Premise": "After 3 months, I will submit my PhD dissertation.", "Hypothesis": "Before 155 days, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "In 8 months, I will start my bachelors.", "Hypothesis": "I will start my bachelors after 98 days.", "Label": "Entailment"}
+{"Premise": "The grocery store will close in 1 hour.", "Hypothesis": "Before 140 minutess, the grocery store will close.", "Label": "Entailment"}
+{"Premise": "After 1 hour, the train from Seattle will depart.", "Hypothesis": "The train from Seattle will depart before 95 minutess.", "Label": "Neutral"}
+{"Premise": "He will be sworn in as the Prime Minister in 1 hour.", "Hypothesis": "Before 127 minutess, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "Before 3 days, he will be sworn in as the Prime Minister.", "Hypothesis": "Before 172 hours, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "After 5 hours, the train from Seattle will depart.", "Hypothesis": "After 387 minutess, the train from Seattle will depart.", "Label": "Neutral"}
+{"Premise": "Before 6 months, I will graduate.", "Hypothesis": "I will graduate after 304 days.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies in 9 years.", "Hypothesis": "The government will issue new labor policies after 111 months.", "Label": "Contradiction"}
+{"Premise": "Before 6 months, Robin will visit her parents.", "Hypothesis": "Before 92 days, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "In 7 days, the storm will begin.", "Hypothesis": "The storm will begin before 70 hours.", "Label": "Contradiction"}
+{"Premise": "They will become the top football team in 6 months.", "Hypothesis": "They will become the top football team after 100 days.", "Label": "Entailment"}
+{"Premise": "In 8 days, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation before 296 hours.", "Label": "Entailment"}
+{"Premise": "In 8 days, the startup will receive funding.", "Hypothesis": "Before 120 hours, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "The grocery store will close before 8 days.", "Hypothesis": "After 161 hours, the grocery store will close.", "Label": "Neutral"}
+{"Premise": "After 8 hours, the court case will begin.", "Hypothesis": "The court case will begin before 708 minutess.", "Label": "Neutral"}
+{"Premise": "The match between India and Australia will begin before 7 hours.", "Hypothesis": "Before 464 minutess, the match between India and Australia will begin.", "Label": "Entailment"}
+{"Premise": "The storm will begin before 8 days.", "Hypothesis": "The storm will begin before 84 hours.", "Label": "Neutral"}
+{"Premise": "Before 10 days, the grocery store will close.", "Hypothesis": "The grocery store will close before 258 hours.", "Label": "Entailment"}
+{"Premise": "Before 10 years, I will graduate.", "Hypothesis": "I will graduate after 161 months.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding in 3 months.", "Hypothesis": "The startup will receive funding before 242 days.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies after 6 years.", "Hypothesis": "After 54 months, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "Before 4 hours, the match between India and Australia will begin.", "Hypothesis": "The match between India and Australia will begin before 127 minutess.", "Label": "Neutral"}
+{"Premise": "Pixar will release an animated film before 7 years.", "Hypothesis": "Pixar will release an animated film before 28 months.", "Label": "Neutral"}
+{"Premise": "Before 8 days, the storm will begin.", "Hypothesis": "After 191 hours, the storm will begin.", "Label": "Neutral"}
+{"Premise": "After 8 hours, the match between India and Australia will begin.", "Hypothesis": "The match between India and Australia will begin after 578 minutess.", "Label": "Neutral"}
+{"Premise": "Before 8 hours, the court case will begin.", "Hypothesis": "Before 710 minutess, the court case will begin.", "Label": "Entailment"}
+{"Premise": "After 10 months, I will start my bachelors.", "Hypothesis": "Before 399 days, I will start my bachelors.", "Label": "Neutral"}
+{"Premise": "In 7 days, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister after 96 hours.", "Label": "Entailment"}
+{"Premise": "The startup will receive funding in 8 days.", "Hypothesis": "After 223 hours, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "The train from Seattle will depart in 8 hours.", "Hypothesis": "After 208 minutess, the train from Seattle will depart.", "Label": "Entailment"}
+{"Premise": "Before 2 days, I will submit my PhD dissertation.", "Hypothesis": "After 161 hours, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe will start after 9 months.", "Hypothesis": "Their tour of Europe will start before 296 days.", "Label": "Neutral"}
+{"Premise": "I will graduate in 10 years.", "Hypothesis": "Before 136 months, I will graduate.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia will begin before 6 days.", "Hypothesis": "After 190 hours, the match between India and Australia will begin.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film after 8 years.", "Hypothesis": "Pixar will release an animated film after 50 months.", "Label": "Entailment"}
+{"Premise": "In 10 years, I will graduate.", "Hypothesis": "I will graduate after 99 months.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia will begin in 9 hours.", "Hypothesis": "The match between India and Australia will begin after 707 minutess.", "Label": "Contradiction"}
+{"Premise": "In 4 hours, the court case will begin.", "Hypothesis": "After 374 minutess, the court case will begin.", "Label": "Contradiction"}
+{"Premise": "Lindsey will pay off her loans in 4 years.", "Hypothesis": "Lindsey will pay off her loans after 62 months.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister in 10 hours.", "Hypothesis": "He will be sworn in as the Prime Minister before 426 minutess.", "Label": "Contradiction"}
+{"Premise": "In 4 months, Pixar will release an animated film.", "Hypothesis": "Pixar will release an animated film before 196 days.", "Label": "Entailment"}
+{"Premise": "Before 4 days, I will submit my PhD dissertation.", "Hypothesis": "After 72 hours, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "After 8 hours, the match between India and Australia will begin.", "Hypothesis": "After 625 minutess, the match between India and Australia will begin.", "Label": "Neutral"}
+{"Premise": "The storm will begin after 8 days.", "Hypothesis": "The storm will begin after 275 hours.", "Label": "Neutral"}
+{"Premise": "They will become the top football team after 1 year.", "Hypothesis": "They will become the top football team before 36 months.", "Label": "Neutral"}
+{"Premise": "In 3 months, Robin will visit her parents.", "Hypothesis": "Robin will visit her parents after 110 days.", "Label": "Contradiction"}
+{"Premise": "After 4 months, I will submit my PhD dissertation.", "Hypothesis": "After 252 days, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "I will graduate after 8 months.", "Hypothesis": "I will graduate before 386 days.", "Label": "Neutral"}
+{"Premise": "I will submit my PhD dissertation in 6 months.", "Hypothesis": "After 293 days, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "Before 3 years, I will submit my PhD dissertation.", "Hypothesis": "After 37 months, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "Before 6 months, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies before 269 days.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia will begin before 8 days.", "Hypothesis": "Before 255 hours, the match between India and Australia will begin.", "Label": "Entailment"}
+{"Premise": "The grocery store will close before 5 days.", "Hypothesis": "After 172 hours, the grocery store will close.", "Label": "Contradiction"}
+{"Premise": "After 5 days, the grocery store will close.", "Hypothesis": "Before 155 hours, the grocery store will close.", "Label": "Neutral"}
+{"Premise": "Robin will visit her parents before 8 months.", "Hypothesis": "Before 197 days, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "After 8 days, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister after 310 hours.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies in 5 years.", "Hypothesis": "The government will issue new labor policies before 11 months.", "Label": "Contradiction"}
+{"Premise": "After 4 days, the match between India and Australia will begin.", "Hypothesis": "Before 93 hours, the match between India and Australia will begin.", "Label": "Contradiction"}
+{"Premise": "After 5 hours, the court case will begin.", "Hypothesis": "The court case will begin after 150 minutess.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies before 10 years.", "Hypothesis": "Before 126 months, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "The startup will receive funding in 4 days.", "Hypothesis": "Before 17 hours, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "Before 6 days, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister before 78 hours.", "Label": "Neutral"}
+{"Premise": "They will become the top football team in 9 years.", "Hypothesis": "After 51 months, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "Lindsey will pay off her loans in 2 years.", "Hypothesis": "Lindsey will pay off her loans after 17 months.", "Label": "Entailment"}
+{"Premise": "Before 2 days, the startup will receive funding.", "Hypothesis": "After 21 hours, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "The match between India and Australia will begin before 4 hours.", "Hypothesis": "After 126 minutess, the match between India and Australia will begin.", "Label": "Neutral"}
+{"Premise": "Robin will visit her parents after 1 day.", "Hypothesis": "Robin will visit her parents after 9 hours.", "Label": "Entailment"}
+{"Premise": "Before 5 hours, the train from Seattle will depart.", "Hypothesis": "Before 265 minutess, the train from Seattle will depart.", "Label": "Neutral"}
+{"Premise": "After 2 days, Robin will visit her parents.", "Hypothesis": "Before 104 hours, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "Lindsey will pay off her loans before 3 years.", "Hypothesis": "After 28 months, Lindsey will pay off her loans.", "Label": "Neutral"}
+{"Premise": "I will start my bachelors before 10 years.", "Hypothesis": "Before 69 months, I will start my bachelors.", "Label": "Neutral"}
+{"Premise": "I will start my bachelors after 7 months.", "Hypothesis": "After 231 days, I will start my bachelors.", "Label": "Neutral"}
+{"Premise": "The grocery store will close after 3 days.", "Hypothesis": "The grocery store will close after 109 hours.", "Label": "Neutral"}
+{"Premise": "The court case will begin after 4 months.", "Hypothesis": "After 237 days, the court case will begin.", "Label": "Neutral"}
+{"Premise": "He will be sworn in as the Prime Minister before 2 hours.", "Hypothesis": "Before 40 minutess, he will be sworn in as the Prime Minister.", "Label": "Neutral"}
+{"Premise": "Before 10 years, Lindsey will pay off her loans.", "Hypothesis": "Lindsey will pay off her loans before 173 months.", "Label": "Entailment"}
+{"Premise": "Before 5 hours, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister before 293 minutess.", "Label": "Neutral"}
+{"Premise": "The startup will receive funding after 9 days.", "Hypothesis": "The startup will receive funding before 217 hours.", "Label": "Neutral"}
+{"Premise": "After 4 years, the government will issue new labor policies.", "Hypothesis": "After 45 months, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation after 9 months.", "Hypothesis": "I will submit my PhD dissertation before 372 days.", "Label": "Neutral"}
+{"Premise": "After 3 years, Lindsey will pay off her loans.", "Hypothesis": "Lindsey will pay off her loans before 6 months.", "Label": "Contradiction"}
+{"Premise": "The storm will begin after 8 days.", "Hypothesis": "After 182 hours, the storm will begin.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia will begin in 2 days.", "Hypothesis": "After 14 hours, the match between India and Australia will begin.", "Label": "Entailment"}
+{"Premise": "In 5 months, their tour of Europe will start.", "Hypothesis": "Their tour of Europe will start before 57 days.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation before 7 months.", "Hypothesis": "I will submit my PhD dissertation before 349 days.", "Label": "Entailment"}
+{"Premise": "Robin will visit her parents after 8 days.", "Hypothesis": "After 308 hours, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "After 1 day, the grocery store will close.", "Hypothesis": "After 13 hours, the grocery store will close.", "Label": "Entailment"}
+{"Premise": "The court case will begin in 4 months.", "Hypothesis": "Before 53 days, the court case will begin.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding before 9 days.", "Hypothesis": "Before 319 hours, the startup will receive funding.", "Label": "Entailment"}
+{"Premise": "They will become the top football team in 10 months.", "Hypothesis": "After 218 days, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "They will become the top football team after 4 years.", "Hypothesis": "After 30 months, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister after 10 hours.", "Hypothesis": "Before 602 minutess, he will be sworn in as the Prime Minister.", "Label": "Neutral"}
+{"Premise": "The storm will begin after 3 days.", "Hypothesis": "After 106 hours, the storm will begin.", "Label": "Neutral"}
+{"Premise": "Before 6 months, I will start my bachelors.", "Hypothesis": "I will start my bachelors before 165 days.", "Label": "Neutral"}
+{"Premise": "Before 1 month, I will start my bachelors.", "Hypothesis": "After 155 days, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "After 1 year, I will start my bachelors.", "Hypothesis": "I will start my bachelors before 11 months.", "Label": "Contradiction"}
+{"Premise": "After 6 days, the court case will begin.", "Hypothesis": "The court case will begin before 111 hours.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation before 3 months.", "Hypothesis": "I will submit my PhD dissertation before 63 days.", "Label": "Neutral"}
+{"Premise": "After 4 years, I will submit my PhD dissertation.", "Hypothesis": "After 40 months, I will submit my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "After 2 years, I will graduate.", "Hypothesis": "After 3 months, I will graduate.", "Label": "Entailment"}
+{"Premise": "Pixar will release an animated film in 2 months.", "Hypothesis": "Pixar will release an animated film before 196 days.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation after 2 months.", "Hypothesis": "I will submit my PhD dissertation after 185 days.", "Label": "Neutral"}
+{"Premise": "The grocery store will close in 3 days.", "Hypothesis": "The grocery store will close after 154 hours.", "Label": "Contradiction"}
+{"Premise": "In 5 days, the government will issue new labor policies.", "Hypothesis": "Before 127 hours, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "The grocery store will close in 3 days.", "Hypothesis": "The grocery store will close before 21 hours.", "Label": "Contradiction"}
+{"Premise": "The grocery store will close after 2 days.", "Hypothesis": "The grocery store will close after 96 hours.", "Label": "Neutral"}
+{"Premise": "In 9 hours, the train from Seattle will depart.", "Hypothesis": "The train from Seattle will depart after 613 minutess.", "Label": "Contradiction"}
+{"Premise": "In 1 day, the startup will receive funding.", "Hypothesis": "After 8 hours, the startup will receive funding.", "Label": "Entailment"}
+{"Premise": "After 3 months, the startup will receive funding.", "Hypothesis": "The startup will receive funding before 236 days.", "Label": "Neutral"}
+{"Premise": "After 4 days, the startup will receive funding.", "Hypothesis": "After 132 hours, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "In 10 months, I will graduate.", "Hypothesis": "After 244 days, I will graduate.", "Label": "Entailment"}
+{"Premise": "Before 9 years, Pixar will release an animated film.", "Hypothesis": "Pixar will release an animated film after 86 months.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies after 5 years.", "Hypothesis": "The government will issue new labor policies after 95 months.", "Label": "Neutral"}
+{"Premise": "In 6 hours, the court case will begin.", "Hypothesis": "After 250 minutess, the court case will begin.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation before 4 years.", "Hypothesis": "I will submit my PhD dissertation after 63 months.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies after 7 days.", "Hypothesis": "The government will issue new labor policies after 107 hours.", "Label": "Entailment"}
+{"Premise": "Before 8 years, they will become the top football team.", "Hypothesis": "They will become the top football team after 150 months.", "Label": "Contradiction"}
+{"Premise": "I will start my bachelors in 1 year.", "Hypothesis": "I will start my bachelors after 11 months.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation after 9 months.", "Hypothesis": "I will submit my PhD dissertation after 256 days.", "Label": "Entailment"}
+{"Premise": "Before 6 hours, the match between India and Australia will begin.", "Hypothesis": "The match between India and Australia will begin after 136 minutess.", "Label": "Neutral"}
+{"Premise": "I will graduate after 7 months.", "Hypothesis": "I will graduate after 157 days.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister after 1 day.", "Hypothesis": "He will be sworn in as the Prime Minister after 19 hours.", "Label": "Entailment"}
+{"Premise": "In 9 years, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies before 113 months.", "Label": "Entailment"}
+{"Premise": "Before 10 months, the startup will receive funding.", "Hypothesis": "After 339 days, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "Lindsey will pay off her loans after 1 year.", "Hypothesis": "After 6 months, Lindsey will pay off her loans.", "Label": "Entailment"}
+{"Premise": "I will start my bachelors in 4 months.", "Hypothesis": "After 228 days, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe will start before 8 months.", "Hypothesis": "Their tour of Europe will start before 302 days.", "Label": "Entailment"}
+{"Premise": "The grocery store will close before 5 hours.", "Hypothesis": "The grocery store will close before 206 minutess.", "Label": "Neutral"}
+{"Premise": "In 6 days, he will be sworn in as the Prime Minister.", "Hypothesis": "Before 101 hours, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "Their tour of Europe will start before 1 month.", "Hypothesis": "After 17 days, their tour of Europe will start.", "Label": "Neutral"}
+{"Premise": "In 6 months, the court case will begin.", "Hypothesis": "The court case will begin after 316 days.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding in 3 years.", "Hypothesis": "The startup will receive funding before 30 months.", "Label": "Contradiction"}
+{"Premise": "After 2 years, I will graduate.", "Hypothesis": "After 70 months, I will graduate.", "Label": "Neutral"}
+{"Premise": "Before 7 hours, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister before 214 minutess.", "Label": "Neutral"}
+{"Premise": "They will become the top football team after 4 months.", "Hypothesis": "They will become the top football team before 38 days.", "Label": "Contradiction"}
+{"Premise": "I will start my bachelors before 10 years.", "Hypothesis": "I will start my bachelors before 166 months.", "Label": "Entailment"}
+{"Premise": "The grocery store will close after 7 hours.", "Hypothesis": "Before 461 minutess, the grocery store will close.", "Label": "Neutral"}
+{"Premise": "The grocery store will close after 9 hours.", "Hypothesis": "The grocery store will close after 813 minutess.", "Label": "Neutral"}
+{"Premise": "I will submit my PhD dissertation in 6 years.", "Hypothesis": "Before 54 months, I will submit my PhD dissertation.", "Label": "Contradiction"}
+{"Premise": "After 6 days, the startup will receive funding.", "Hypothesis": "After 152 hours, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "In 3 months, Pixar will release an animated film.", "Hypothesis": "After 42 days, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "Before 1 year, they will become the top football team.", "Hypothesis": "They will become the top football team before 28 months.", "Label": "Entailment"}
+{"Premise": "Before 10 years, I will graduate.", "Hypothesis": "After 75 months, I will graduate.", "Label": "Neutral"}
+{"Premise": "Pixar will release an animated film before 10 years.", "Hypothesis": "Pixar will release an animated film after 159 months.", "Label": "Contradiction"}
+{"Premise": "In 5 hours, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister before 278 minutess.", "Label": "Contradiction"}
+{"Premise": "Robin will visit her parents in 10 days.", "Hypothesis": "Robin will visit her parents after 334 hours.", "Label": "Contradiction"}
+{"Premise": "They will become the top football team in 4 months.", "Hypothesis": "Before 36 days, they will become the top football team.", "Label": "Contradiction"}
+{"Premise": "In 2 years, I will graduate.", "Hypothesis": "I will graduate before 66 months.", "Label": "Entailment"}
+{"Premise": "The startup will receive funding before 10 years.", "Hypothesis": "Before 112 months, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "Before 1 year, I will submit my PhD dissertation.", "Hypothesis": "Before 4 months, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "I will graduate after 9 months.", "Hypothesis": "After 176 days, I will graduate.", "Label": "Entailment"}
+{"Premise": "Before 6 hours, he will be sworn in as the Prime Minister.", "Hypothesis": "Before 505 minutess, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "Before 7 hours, he will be sworn in as the Prime Minister.", "Hypothesis": "After 271 minutess, he will be sworn in as the Prime Minister.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies after 2 years.", "Hypothesis": "The government will issue new labor policies before 3 months.", "Label": "Contradiction"}
+{"Premise": "I will start my bachelors in 10 years.", "Hypothesis": "After 100 months, I will start my bachelors.", "Label": "Entailment"}
+{"Premise": "After 2 months, their tour of Europe will start.", "Hypothesis": "After 56 days, their tour of Europe will start.", "Label": "Entailment"}
+{"Premise": "Before 9 hours, the train from Seattle will depart.", "Hypothesis": "After 632 minutess, the train from Seattle will depart.", "Label": "Contradiction"}
+{"Premise": "The storm will begin after 6 days.", "Hypothesis": "Before 166 hours, the storm will begin.", "Label": "Neutral"}
+{"Premise": "After 7 days, the grocery store will close.", "Hypothesis": "The grocery store will close after 198 hours.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies before 3 days.", "Hypothesis": "The government will issue new labor policies before 117 hours.", "Label": "Entailment"}
+{"Premise": "After 6 years, they will become the top football team.", "Hypothesis": "They will become the top football team after 98 months.", "Label": "Neutral"}
+{"Premise": "The grocery store will close before 4 days.", "Hypothesis": "After 136 hours, the grocery store will close.", "Label": "Contradiction"}
+{"Premise": "In 10 months, Robin will visit her parents.", "Hypothesis": "Before 261 days, Robin will visit her parents.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister in 1 hour.", "Hypothesis": "He will be sworn in as the Prime Minister before 327 minutess.", "Label": "Entailment"}
+{"Premise": "The government will issue new labor policies before 10 days.", "Hypothesis": "After 125 hours, the government will issue new labor policies.", "Label": "Neutral"}
+{"Premise": "The court case will begin in 4 hours.", "Hypothesis": "After 84 minutess, the court case will begin.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation in 9 days.", "Hypothesis": "I will submit my PhD dissertation after 228 hours.", "Label": "Contradiction"}
+{"Premise": "The grocery store will close before 7 hours.", "Hypothesis": "The grocery store will close after 535 minutess.", "Label": "Contradiction"}
+{"Premise": "In 7 years, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies after 130 months.", "Label": "Contradiction"}
+{"Premise": "Before 10 days, Robin will visit her parents.", "Hypothesis": "Before 298 hours, Robin will visit her parents.", "Label": "Entailment"}
+{"Premise": "After 4 days, the government will issue new labor policies.", "Hypothesis": "Before 50 hours, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "Robin will visit her parents before 7 days.", "Hypothesis": "Before 270 hours, Robin will visit her parents.", "Label": "Entailment"}
+{"Premise": "Robin will visit her parents after 5 days.", "Hypothesis": "Robin will visit her parents before 105 hours.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister before 6 hours.", "Hypothesis": "Before 192 minutess, he will be sworn in as the Prime Minister.", "Label": "Neutral"}
+{"Premise": "After 2 months, their tour of Europe will start.", "Hypothesis": "Before 5 days, their tour of Europe will start.", "Label": "Contradiction"}
+{"Premise": "After 4 years, I will graduate.", "Hypothesis": "Before 86 months, I will graduate.", "Label": "Neutral"}
+{"Premise": "After 7 days, the storm will begin.", "Hypothesis": "The storm will begin after 269 hours.", "Label": "Neutral"}
+{"Premise": "After 9 years, the startup will receive funding.", "Hypothesis": "Before 76 months, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "In 7 months, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation before 278 days.", "Label": "Entailment"}
+{"Premise": "The court case will begin after 1 hour.", "Hypothesis": "The court case will begin before 36 minutess.", "Label": "Contradiction"}
+{"Premise": "In 10 hours, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister after 562 minutess.", "Label": "Entailment"}
+{"Premise": "In 3 months, the government will issue new labor policies.", "Hypothesis": "After 141 days, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding in 6 days.", "Hypothesis": "The startup will receive funding before 156 hours.", "Label": "Entailment"}
+{"Premise": "Before 7 days, Robin will visit her parents.", "Hypothesis": "After 87 hours, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "Their tour of Europe will start before 7 months.", "Hypothesis": "Before 94 days, their tour of Europe will start.", "Label": "Neutral"}
+{"Premise": "After 8 hours, the court case will begin.", "Hypothesis": "Before 672 minutess, the court case will begin.", "Label": "Neutral"}
+{"Premise": "I will submit my PhD dissertation in 8 years.", "Hypothesis": "I will submit my PhD dissertation before 113 months.", "Label": "Entailment"}
+{"Premise": "In 1 month, they will become the top football team.", "Hypothesis": "They will become the top football team before 109 days.", "Label": "Entailment"}
+{"Premise": "After 8 hours, the grocery store will close.", "Hypothesis": "The grocery store will close before 206 minutess.", "Label": "Contradiction"}
+{"Premise": "The grocery store will close after 5 days.", "Hypothesis": "The grocery store will close after 179 hours.", "Label": "Neutral"}
+{"Premise": "I will start my bachelors in 6 months.", "Hypothesis": "Before 227 days, I will start my bachelors.", "Label": "Entailment"}
+{"Premise": "The storm will begin in 5 days.", "Hypothesis": "The storm will begin after 44 hours.", "Label": "Entailment"}
+{"Premise": "After 1 month, the startup will receive funding.", "Hypothesis": "Before 112 days, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "Before 3 hours, the train from Seattle will depart.", "Hypothesis": "The train from Seattle will depart after 110 minutess.", "Label": "Neutral"}
+{"Premise": "Their tour of Europe will start after 7 months.", "Hypothesis": "After 248 days, their tour of Europe will start.", "Label": "Neutral"}
+{"Premise": "In 1 year, Pixar will release an animated film.", "Hypothesis": "Before 6 months, Pixar will release an animated film.", "Label": "Contradiction"}
+{"Premise": "In 6 months, the court case will begin.", "Hypothesis": "Before 83 days, the court case will begin.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film before 2 months.", "Hypothesis": "Before 167 days, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "Before 10 months, they will become the top football team.", "Hypothesis": "Before 370 days, they will become the top football team.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister in 7 hours.", "Hypothesis": "He will be sworn in as the Prime Minister before 199 minutess.", "Label": "Contradiction"}
+{"Premise": "Before 3 hours, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister after 319 minutess.", "Label": "Contradiction"}
+{"Premise": "In 8 hours, the grocery store will close.", "Hypothesis": "Before 271 minutess, the grocery store will close.", "Label": "Contradiction"}
+{"Premise": "Before 4 months, I will graduate.", "Hypothesis": "I will graduate before 1 day.", "Label": "Neutral"}
+{"Premise": "He will be sworn in as the Prime Minister in 8 months.", "Hypothesis": "After 109 days, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "Pixar will release an animated film in 5 months.", "Hypothesis": "After 173 days, Pixar will release an animated film.", "Label": "Contradiction"}
+{"Premise": "After 2 months, he will be sworn in as the Prime Minister.", "Hypothesis": "After 112 days, he will be sworn in as the Prime Minister.", "Label": "Neutral"}
+{"Premise": "In 9 days, the court case will begin.", "Hypothesis": "The court case will begin after 152 hours.", "Label": "Entailment"}
+{"Premise": "He will be sworn in as the Prime Minister in 9 hours.", "Hypothesis": "He will be sworn in as the Prime Minister after 580 minutess.", "Label": "Contradiction"}
+{"Premise": "Before 3 hours, the grocery store will close.", "Hypothesis": "The grocery store will close after 19 minutess.", "Label": "Neutral"}
+{"Premise": "The government will issue new labor policies in 8 months.", "Hypothesis": "The government will issue new labor policies after 394 days.", "Label": "Contradiction"}
+{"Premise": "In 4 months, the court case will begin.", "Hypothesis": "After 215 days, the court case will begin.", "Label": "Contradiction"}
+{"Premise": "The storm will begin before 5 days.", "Hypothesis": "The storm will begin before 31 hours.", "Label": "Neutral"}
+{"Premise": "In 8 days, the government will issue new labor policies.", "Hypothesis": "After 234 hours, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "After 2 days, the court case will begin.", "Hypothesis": "Before 128 hours, the court case will begin.", "Label": "Neutral"}
+{"Premise": "In 6 hours, the match between India and Australia will begin.", "Hypothesis": "The match between India and Australia will begin after 327 minutess.", "Label": "Entailment"}
+{"Premise": "I will graduate after 2 years.", "Hypothesis": "Before 4 months, I will graduate.", "Label": "Contradiction"}
+{"Premise": "I will start my bachelors after 2 years.", "Hypothesis": "I will start my bachelors before 10 months.", "Label": "Contradiction"}
+{"Premise": "Before 2 years, the startup will receive funding.", "Hypothesis": "Before 3 months, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "Before 5 hours, the train from Seattle will depart.", "Hypothesis": "After 475 minutess, the train from Seattle will depart.", "Label": "Contradiction"}
+{"Premise": "In 8 years, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation after 138 months.", "Label": "Contradiction"}
+{"Premise": "Robin will visit her parents before 9 days.", "Hypothesis": "Robin will visit her parents before 142 hours.", "Label": "Neutral"}
+{"Premise": "After 5 months, Pixar will release an animated film.", "Hypothesis": "Pixar will release an animated film after 217 days.", "Label": "Neutral"}
+{"Premise": "In 10 hours, the match between India and Australia will begin.", "Hypothesis": "Before 718 minutess, the match between India and Australia will begin.", "Label": "Entailment"}
+{"Premise": "In 7 days, the court case will begin.", "Hypothesis": "The court case will begin before 162 hours.", "Label": "Contradiction"}
+{"Premise": "In 10 months, I will graduate.", "Hypothesis": "After 332 days, I will graduate.", "Label": "Contradiction"}
+{"Premise": "I will start my bachelors before 4 years.", "Hypothesis": "Before 85 months, I will start my bachelors.", "Label": "Entailment"}
+{"Premise": "The court case will begin before 10 hours.", "Hypothesis": "Before 777 minutess, the court case will begin.", "Label": "Entailment"}
+{"Premise": "In 5 days, the startup will receive funding.", "Hypothesis": "Before 34 hours, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "In 1 month, they will become the top football team.", "Hypothesis": "After 81 days, they will become the top football team.", "Label": "Contradiction"}
+{"Premise": "Before 9 days, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister after 211 hours.", "Label": "Neutral"}
+{"Premise": "The court case will begin after 7 days.", "Hypothesis": "The court case will begin after 48 hours.", "Label": "Entailment"}
+{"Premise": "They will become the top football team in 8 months.", "Hypothesis": "They will become the top football team after 203 days.", "Label": "Entailment"}
+{"Premise": "After 7 hours, the court case will begin.", "Hypothesis": "The court case will begin after 157 minutess.", "Label": "Entailment"}
+{"Premise": "In 8 days, the government will issue new labor policies.", "Hypothesis": "Before 107 hours, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister before 9 months.", "Hypothesis": "After 247 days, he will be sworn in as the Prime Minister.", "Label": "Neutral"}
+{"Premise": "The grocery store will close after 9 days.", "Hypothesis": "After 247 hours, the grocery store will close.", "Label": "Neutral"}
+{"Premise": "After 1 hour, the match between India and Australia will begin.", "Hypothesis": "Before 27 minutess, the match between India and Australia will begin.", "Label": "Contradiction"}
+{"Premise": "In 5 years, Pixar will release an animated film.", "Hypothesis": "After 116 months, Pixar will release an animated film.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister after 2 days.", "Hypothesis": "He will be sworn in as the Prime Minister before 67 hours.", "Label": "Neutral"}
+{"Premise": "Pixar will release an animated film in 1 month.", "Hypothesis": "Pixar will release an animated film after 9 days.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation before 7 days.", "Hypothesis": "I will submit my PhD dissertation before 195 hours.", "Label": "Entailment"}
+{"Premise": "The grocery store will close after 8 hours.", "Hypothesis": "The grocery store will close after 461 minutess.", "Label": "Entailment"}
+{"Premise": "I will start my bachelors before 2 years.", "Hypothesis": "I will start my bachelors after 20 months.", "Label": "Neutral"}
+{"Premise": "Robin will visit her parents after 1 day.", "Hypothesis": "Before 124 hours, Robin will visit her parents.", "Label": "Neutral"}
+{"Premise": "In 10 months, Pixar will release an animated film.", "Hypothesis": "Pixar will release an animated film before 174 days.", "Label": "Contradiction"}
+{"Premise": "Before 6 years, Lindsey will pay off her loans.", "Hypothesis": "After 33 months, Lindsey will pay off her loans.", "Label": "Neutral"}
+{"Premise": "Before 8 days, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister before 219 hours.", "Label": "Entailment"}
+{"Premise": "In 5 years, I will start my bachelors.", "Hypothesis": "Before 41 months, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "The startup will receive funding in 10 years.", "Hypothesis": "The startup will receive funding after 174 months.", "Label": "Contradiction"}
+{"Premise": "After 4 months, they will become the top football team.", "Hypothesis": "They will become the top football team before 189 days.", "Label": "Neutral"}
+{"Premise": "They will become the top football team before 4 months.", "Hypothesis": "Before 32 days, they will become the top football team.", "Label": "Neutral"}
+{"Premise": "The court case will begin before 1 month.", "Hypothesis": "The court case will begin before 14 days.", "Label": "Neutral"}
+{"Premise": "The court case will begin before 5 days.", "Hypothesis": "The court case will begin before 97 hours.", "Label": "Neutral"}
+{"Premise": "Pixar will release an animated film before 10 months.", "Hypothesis": "Before 216 days, Pixar will release an animated film.", "Label": "Neutral"}
+{"Premise": "The grocery store will close before 1 hour.", "Hypothesis": "The grocery store will close after 116 minutess.", "Label": "Contradiction"}
+{"Premise": "In 6 days, he will be sworn in as the Prime Minister.", "Hypothesis": "He will be sworn in as the Prime Minister after 96 hours.", "Label": "Entailment"}
+{"Premise": "The match between India and Australia will begin after 5 hours.", "Hypothesis": "Before 461 minutess, the match between India and Australia will begin.", "Label": "Neutral"}
+{"Premise": "The court case will begin after 7 months.", "Hypothesis": "The court case will begin after 349 days.", "Label": "Neutral"}
+{"Premise": "After 4 days, the government will issue new labor policies.", "Hypothesis": "Before 195 hours, the government will issue new labor policies.", "Label": "Neutral"}
+{"Premise": "I will submit my PhD dissertation before 4 months.", "Hypothesis": "After 38 days, I will submit my PhD dissertation.", "Label": "Neutral"}
+{"Premise": "The startup will receive funding before 7 days.", "Hypothesis": "Before 98 hours, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "After 2 months, the court case will begin.", "Hypothesis": "Before 140 days, the court case will begin.", "Label": "Neutral"}
+{"Premise": "After 1 day, the storm will begin.", "Hypothesis": "Before 134 hours, the storm will begin.", "Label": "Neutral"}
+{"Premise": "Before 1 year, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies after 40 months.", "Label": "Contradiction"}
+{"Premise": "The court case will begin after 4 days.", "Hypothesis": "Before 104 hours, the court case will begin.", "Label": "Neutral"}
+{"Premise": "I will graduate in 3 years.", "Hypothesis": "I will graduate after 13 months.", "Label": "Entailment"}
+{"Premise": "In 2 months, he will be sworn in as the Prime Minister.", "Hypothesis": "After 81 days, he will be sworn in as the Prime Minister.", "Label": "Contradiction"}
+{"Premise": "Robin will visit her parents after 4 days.", "Hypothesis": "Robin will visit her parents before 86 hours.", "Label": "Contradiction"}
+{"Premise": "After 3 years, I will start my bachelors.", "Hypothesis": "I will start my bachelors before 41 months.", "Label": "Neutral"}
+{"Premise": "In 1 month, the government will issue new labor policies.", "Hypothesis": "Before 8 days, the government will issue new labor policies.", "Label": "Contradiction"}
+{"Premise": "In 7 months, the startup will receive funding.", "Hypothesis": "The startup will receive funding before 118 days.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies in 10 months.", "Hypothesis": "After 153 days, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "After 8 days, he will be sworn in as the Prime Minister.", "Hypothesis": "Before 307 hours, he will be sworn in as the Prime Minister.", "Label": "Neutral"}
+{"Premise": "After 9 days, the grocery store will close.", "Hypothesis": "The grocery store will close before 181 hours.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister after 3 hours.", "Hypothesis": "He will be sworn in as the Prime Minister after 379 minutess.", "Label": "Neutral"}
+{"Premise": "Lindsey will pay off her loans before 8 years.", "Hypothesis": "Lindsey will pay off her loans after 127 months.", "Label": "Contradiction"}
+{"Premise": "I will start my bachelors in 8 months.", "Hypothesis": "I will start my bachelors before 197 days.", "Label": "Contradiction"}
+{"Premise": "In 6 years, I will submit my PhD dissertation.", "Hypothesis": "I will submit my PhD dissertation before 33 months.", "Label": "Contradiction"}
+{"Premise": "They will become the top football team in 8 months.", "Hypothesis": "After 343 days, they will become the top football team.", "Label": "Contradiction"}
+{"Premise": "Before 1 month, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies after 109 days.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation before 4 months.", "Hypothesis": "I will submit my PhD dissertation after 113 days.", "Label": "Neutral"}
+{"Premise": "They will become the top football team in 8 years.", "Hypothesis": "Before 76 months, they will become the top football team.", "Label": "Contradiction"}
+{"Premise": "The court case will begin before 9 months.", "Hypothesis": "The court case will begin after 418 days.", "Label": "Contradiction"}
+{"Premise": "The government will issue new labor policies in 8 months.", "Hypothesis": "After 210 days, the government will issue new labor policies.", "Label": "Entailment"}
+{"Premise": "The court case will begin in 3 days.", "Hypothesis": "Before 45 hours, the court case will begin.", "Label": "Contradiction"}
+{"Premise": "Pixar will release an animated film after 8 years.", "Hypothesis": "Before 108 months, Pixar will release an animated film.", "Label": "Neutral"}
+{"Premise": "The startup will receive funding before 10 days.", "Hypothesis": "After 205 hours, the startup will receive funding.", "Label": "Neutral"}
+{"Premise": "After 5 years, Pixar will release an animated film.", "Hypothesis": "After 37 months, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "In 9 years, they will become the top football team.", "Hypothesis": "They will become the top football team after 51 months.", "Label": "Entailment"}
+{"Premise": "The train from Seattle will depart before 8 hours.", "Hypothesis": "Before 416 minutess, the train from Seattle will depart.", "Label": "Neutral"}
+{"Premise": "Pixar will release an animated film in 2 months.", "Hypothesis": "Pixar will release an animated film after 49 days.", "Label": "Entailment"}
+{"Premise": "In 4 months, I will graduate.", "Hypothesis": "Before 85 days, I will graduate.", "Label": "Contradiction"}
+{"Premise": "Before 1 year, they will become the top football team.", "Hypothesis": "After 5 months, they will become the top football team.", "Label": "Neutral"}
+{"Premise": "He will be sworn in as the Prime Minister after 7 days.", "Hypothesis": "After 137 hours, he will be sworn in as the Prime Minister.", "Label": "Entailment"}
+{"Premise": "Pixar will release an animated film in 7 months.", "Hypothesis": "Pixar will release an animated film before 107 days.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister before 5 hours.", "Hypothesis": "He will be sworn in as the Prime Minister before 19 minutess.", "Label": "Neutral"}
+{"Premise": "Before 3 days, the storm will begin.", "Hypothesis": "Before 13 hours, the storm will begin.", "Label": "Neutral"}
+{"Premise": "Before 5 years, Lindsey will pay off her loans.", "Hypothesis": "Lindsey will pay off her loans before 113 months.", "Label": "Entailment"}
+{"Premise": "I will submit my PhD dissertation after 5 days.", "Hypothesis": "After 107 hours, I will submit my PhD dissertation.", "Label": "Entailment"}
+{"Premise": "I will graduate before 8 years.", "Hypothesis": "I will graduate after 61 months.", "Label": "Neutral"}
+{"Premise": "I will start my bachelors after 4 months.", "Hypothesis": "Before 49 days, I will start my bachelors.", "Label": "Contradiction"}
+{"Premise": "In 2 years, Pixar will release an animated film.", "Hypothesis": "After 1 month, Pixar will release an animated film.", "Label": "Entailment"}
+{"Premise": "In 3 months, the startup will receive funding.", "Hypothesis": "After 161 days, the startup will receive funding.", "Label": "Contradiction"}
+{"Premise": "He will be sworn in as the Prime Minister after 2 months.", "Hypothesis": "He will be sworn in as the Prime Minister after 7 days.", "Label": "Entailment"}
+{"Premise": "After 6 days, the government will issue new labor policies.", "Hypothesis": "The government will issue new labor policies before 122 hours.", "Label": "Contradiction"}
+{"Premise": "I will submit my PhD dissertation in 1 day.", "Hypothesis": "Before 13 hours, I will submit my PhD dissertation.", "Label": "Contradiction"}
