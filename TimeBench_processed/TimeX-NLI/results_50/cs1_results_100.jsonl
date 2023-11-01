@@ -1,0 +1,50 @@
+{"Premise": "In Sep, he will be sworn in as the Prime Minister.", "Hypothesis": "Before October, he will be sworn in as the Prime Minister.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "Before 8 PM, the startup received funding.", "Hypothesis": "Before 8 AM, the startup received funding.", "a": "Neutral", "p": "C. Neutral"}
+{"Premise": "The court case began in Jan.", "Hypothesis": "The court case began before February.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "Before June, Pixar released an animated film.", "Hypothesis": "After Sep, Pixar released an animated film.", "a": "Contradiction", "p": "C. Neutral"}
+{"Premise": "The government issued new labor policies in Jun.", "Hypothesis": "The government issued new labor policies before Feb.", "a": "Contradiction", "p": "C. Neutral"}
+{"Premise": "At 19:00, the storm began.", "Hypothesis": "After 18:00, the storm began.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "I submitted my PhD dissertation before 18th.", "Hypothesis": "I submitted my PhD dissertation after 12th.", "a": "Neutral", "p": "B. Contradiction"}
+{"Premise": "I graduated after November.", "Hypothesis": "I graduated after December.", "a": "Neutral", "p": "A. Entailment"}
+{"Premise": "Before 14th August 1912, Lindsey will pay off her loans.", "Hypothesis": "Before 2nd August 1909, Lindsey will pay off her loans.", "a": "Neutral", "p": "B. Contradiction"}
+{"Premise": "The court case will begin on Wednesday.", "Hypothesis": "The court case will begin before Saturday.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "After 18th, the startup will receive funding.", "Hypothesis": "After 13th, the startup will receive funding.", "a": "Entailment", "p": "C. Neutral"}
+{"Premise": "At 13:00, I submitted my PhD dissertation.", "Hypothesis": "After 5 PM, I submitted my PhD dissertation.", "a": "Contradiction", "p": "B. Contradiction"}
+{"Premise": "The startup will receive funding after 1957.", "Hypothesis": "The startup will receive funding before 1982.", "a": "Neutral", "p": "A. Entailment"}
+{"Premise": "I will start my bachelors on 12th December 1977.", "Hypothesis": "I will start my bachelors after 23rd Dec 1962.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "In October 1935, the government issued new labor policies.", "Hypothesis": "After November 1926, the government issued new labor policies.", "a": "Entailment", "p": "C. Neutral"}
+{"Premise": "On 9th Jul 1987, Pixar will release an animated film.", "Hypothesis": "After 1st May 1938, Pixar will release an animated film.", "a": "Entailment", "p": "C. Neutral"}
+{"Premise": "In February 1953, I will start my bachelors.", "Hypothesis": "After Oct 1938, I will start my bachelors.", "a": "Entailment", "p": "B. Contradiction"}
+{"Premise": "He was sworn in as the Prime Minister after Aug.", "Hypothesis": "He was sworn in as the Prime Minister after November.", "a": "Neutral", "p": "B. Contradiction"}
+{"Premise": "In Mar, their tour of Europe will start.", "Hypothesis": "Before March, their tour of Europe will start.", "a": "Contradiction", "p": "A. Entailment"}
+{"Premise": "The court case began in Aug.", "Hypothesis": "The court case began after Apr.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "On 23rd, they became the top football team.", "Hypothesis": "After 16th, they became the top football team.", "a": "Entailment", "p": "C. Neutral"}
+{"Premise": "Before Sep 1999, I started my bachelors.", "Hypothesis": "After Oct 1927, I started my bachelors.", "a": "Neutral", "p": "B. Contradiction"}
+{"Premise": "After 27th, the startup received funding.", "Hypothesis": "After 16th, the startup received funding.", "a": "Entailment", "p": "C. Neutral"}
+{"Premise": "I will graduate in May 1955.", "Hypothesis": "I will graduate before November 1900.", "a": "Contradiction", "p": "B. Contradiction"}
+{"Premise": "Before 21st, their tour of Europe will start.", "Hypothesis": "After 8th, their tour of Europe will start.", "a": "Neutral", "p": "C. Neutral"}
+{"Premise": "I submitted my PhD dissertation after Wednesday.", "Hypothesis": "I submitted my PhD dissertation after Monday.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "At 7 AM, the government issued new labor policies.", "Hypothesis": "Before 12 PM, the government issued new labor policies.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "After 15th, the startup will receive funding.", "Hypothesis": "Before 22nd, the startup will receive funding.", "a": "Neutral", "p": "A. Entailment"}
+{"Premise": "Before Jun, I will graduate.", "Hypothesis": "Before Aug, I will graduate.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "Robin visited her parents at 11 AM.", "Hypothesis": "Robin visited her parents after 19:00.", "a": "Contradiction", "p": "C. Neutral"}
+{"Premise": "Robin will visit her parents after 20:00.", "Hypothesis": "Robin will visit her parents after 8 PM.", "a": "Neutral", "p": "A. Entailment"}
+{"Premise": "After Apr, I submitted my PhD dissertation.", "Hypothesis": "After August, I submitted my PhD dissertation.", "a": "Neutral", "p": "B. Contradiction"}
+{"Premise": "They will become the top football team on 7th October 1970.", "Hypothesis": "They will become the top football team before 13th November 1959.", "a": "Contradiction", "p": "B. Contradiction"}
+{"Premise": "He was sworn in as the Prime Minister before 13th Jul 1950.", "Hypothesis": "He was sworn in as the Prime Minister after 8th Oct 1947.", "a": "Neutral", "p": "A. Entailment"}
+{"Premise": "Before 12th Apr 1970, I will submit my PhD dissertation.", "Hypothesis": "After 5th November 1977, I will submit my PhD dissertation.", "a": "Contradiction", "p": "C. Neutral"}
+{"Premise": "Before 2nd Feb 1905, I will submit my PhD dissertation.", "Hypothesis": "After 4th September 1947, I will submit my PhD dissertation.", "a": "Contradiction", "p": "C. Neutral"}
+{"Premise": "The startup will receive funding in August 1900.", "Hypothesis": "The startup will receive funding before July 1923.", "a": "Entailment", "p": "B. Contradiction"}
+{"Premise": "On 20th Feb 1939, I will start my bachelors.", "Hypothesis": "Before 8th Mar 1900, I will start my bachelors.", "a": "Contradiction", "p": "B. Contradiction"}
+{"Premise": "After 13th February 1939, I graduated.", "Hypothesis": "After 17th March 1975, I graduated.", "a": "Neutral", "p": "C. Neutral"}
+{"Premise": "I graduated on 2nd.", "Hypothesis": "I graduated before 13th.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "I submitted my PhD dissertation after 11th.", "Hypothesis": "I submitted my PhD dissertation before 2nd.", "a": "Contradiction", "p": "B. Contradiction"}
+{"Premise": "Lindsey will pay off her loans after Jun 1966.", "Hypothesis": "Lindsey will pay off her loans before Aug 1971.", "a": "Neutral", "p": "A. Entailment"}
+{"Premise": "Before Tuesday, the court case began.", "Hypothesis": "Before Sunday, the court case began.", "a": "Neutral", "p": "A. Entailment"}
+{"Premise": "Pixar released an animated film after 7th August 1983.", "Hypothesis": "Pixar released an animated film after 19th Oct 1923.", "a": "Entailment", "p": "A. Entailment"}
+{"Premise": "Before Feb, the startup will receive funding.", "Hypothesis": "After Aug, the startup will receive funding.", "a": "Contradiction", "p": "C. Neutral"}
+{"Premise": "Before 2nd September 1915, the startup received funding.", "Hypothesis": "Before 11th November 1954, the startup received funding.", "a": "Entailment", "p": "C. Neutral"}
+{"Premise": "In February 1918, Pixar will release an animated film.", "Hypothesis": "After May 1914, Pixar will release an animated film.", "a": "Entailment", "p": "C. Neutral"}
+{"Premise": "After Wednesday, he will be sworn in as the Prime Minister.", "Hypothesis": "After Monday, he will be sworn in as the Prime Minister.", "a": "Entailment", "p": "C. Neutral"}
+{"Premise": "On 22nd Apr 1927, the startup received funding.", "Hypothesis": "After 9th Jun 1996, the startup received funding.", "a": "Contradiction", "p": "C. Neutral"}
+{"Premise": "After Monday, he will be sworn in as the Prime Minister.", "Hypothesis": "After Sunday, he will be sworn in as the Prime Minister.", "a": "Entailment", "p": "C. Neutral"}
