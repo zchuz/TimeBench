@@ -1,5 +1,5 @@
 # TimeBench
-This is the repository containing evaluation datas scripts, associated with the forthcoming paper _TimeBench: Systematically Evaluating the Temporal Understanding Ability of Large Language Models" (tentative title)_
+This is the repository containing evaluation datas and scripts, associated with the forthcoming paper _TimeBench: Systematically Evaluating the Temporal Understanding Ability of Large Language Models" (tentative title)_
 
 Temporal reasoning, as an essential component of comprehending the world, has frequently been overlooked in previous research on Large Language Models (LLMs). In order to draw attention from the research community towards the temporal understanding capability of LLMs, we have introduced a holistic temporal understanding benchmarks.
 
