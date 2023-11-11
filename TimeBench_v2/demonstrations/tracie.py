@@ -1,0 +1,12 @@
+demonstrations_cot = [
+    {"Premise": "Joe was a police officer. Joe was patrolling the streets of the city in his cruiser. \"Suddenly, Joe was alerted to a crime happening near him by dispatch.\" Joe responded to the scene and found a bank robber fleeing on foot. Joe arrested the criminal and was promoted.", "Hypothesis": "Joe put on his police uniform. starts after Joe arrest the criminal", "Label": "Contradiction", "cot" : "From the story we know Joe was patrolling. In the work state, Joe has already put on the police uniform. So we can infer that Joe put on his police uniform before arresting the criminal. This conflicts with hypothesis. Therefore, the answer is Contradiction."},
+
+    {"Premise": "My daughter likes to work out with me when I do exercises. After I do an exercise she will try to mimic it. When I do military presses with dumbbells she also tries. But she cannot even lift them off the floor. This always makes me feel very strong for some reason.", "Hypothesis": "My daughter tries to lift one dumbbell at a time ends before she cannot lift them off the floor", "Label": "Entailment", "cot" : "From the story we know the daughter cannot even lift the dumbbell off the floor. Which is consistent with the hypothesis. Therefore, the answer is Entailment.",},
+
+    {"Premise": "Liza was a star student in her high school. She walked home from the library one evening. A man pulled her into the alley and started groping her. Liza pulled out her pepper spray but it malfunctioned. Some students noticed the attacker and he fled.", "Hypothesis": "Liza read a book on economics in the library ends after she left the library", "Label": "Contradiction", "cot" : "From the story we know that Liza was attacked after leaving the library. This conflicts with that Liza read a book on economics after leaving the library. Therefore, the answer is Contradiction."},
+
+    {"Premise": "Ryan woke up one morning with a swollen foot. His mom took him to the doctor to see what was wrong. The doctor told him it looked like his toe was infected. They had to do surgery on it. Ryan felt better the next morning.", "Hypothesis": "Ryan showed his mom his swollen foot starts after he woke up with a swollen foot", "Label": "Entailment", "cot" : "Ryan woke up one morning with a swollen foot and then his mom took him to the doctor. This is consistent with that Ryan showed his mom his swollen foot after he woke up. Therefore, the answer is Entailment."},
+
+]
+
+demonstrations = demonstrations_cot
