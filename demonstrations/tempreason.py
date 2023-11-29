@@ -39,3 +39,12 @@ demonstrations_l3_reason = [
 
 ]
 demonstrations_l3_reason_cot = demonstrations_l3_reason
+
+demonstrations_l1_cot = [
+    {"question" : "What is the time 4 year and 1 month after Apr, 2000?", "answer": "May, 2004", "cot" : "First, 4 years after 2000 is 2004. Next, 1 month after April is May. Therefore, 4 year and 1 month after Apr, 2000 is May, 2004."},
+    {"question" : "What is the time 3 year and 4 month before Jun, 1840?", "answer" : "Feb, 1837", "cot" : "First, subtracting 3 years from 1840 gives 1837. Next, subtracting 4 months from June gives February. Therefore, 3 year and 4 month before Jun, 1840 is Feb, 1837."},
+    {"question" : "What is the time 7 year and 11 month after Feb, 1819?", "answer" : "Jan, 1827", "cot" : "First, 7 years after 1819 is 1826. Next, 11 months after February is January of the next year. Therefore, 7 years and 11 months after Feb, 1819 is Jan, 1827."},
+    {"question" : "What is the time 6 year and 9 month before Jan, 1234?", "answer" : "Apr, 1227", "cot" : "First, subtracting 6 years from 1234 gives 1228. Next, subtracting 9 months from January gives April of the previous year. Therefore, 6 year and 9 month before Jan, 1234 is Apr, 1227."}
+]
+
+demonstrations_l1 = demonstrations_l1_cot
