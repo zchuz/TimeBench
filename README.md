@@ -35,5 +35,12 @@ This is the repository containing evaluation datas, instructions and demonstrati
 If you find our work helpful, you can cite this paper as:
 
 ```bibtex
-
+@misc{chu2023timebench,
+      title={TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models}, 
+      author={Zheng Chu and Jingchang Chen and Qianglong Chen and Weijiang Yu and Haotian Wang and Ming Liu and Bing Qin},
+      year={2023},
+      eprint={2311.17667},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
