@@ -1,6 +1,6 @@
 # TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models
 This is the repository containing evaluation datas, instructions and demonstrations with paper _**TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in
-  Large Language Models**_
+  Large Language Models**_ ([Chu et al., 2023](https://arxiv.org/abs/2311.17667))
 
 ## Datasets
 ![image](src/dataset.png)
@@ -41,6 +41,7 @@ If you find our work helpful, you can cite this paper as:
       year={2023},
       eprint={2311.17667},
       archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2311.17667}
 }
 ```
