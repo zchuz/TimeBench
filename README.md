@@ -11,7 +11,7 @@ Temporal Reasoning Abilities in Large Language Models
     <a href="https://github.com/zchuz/TimeBench/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zchuz/TimeBench?color=green"> </a>
 </div>
 
-This is the repository containing evaluation datas, instructions and demonstrations with paper _**TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in
+This is the repository containing evaluation datas, instructions and demonstrations with ***ACL 2024*** paper _**TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in
   Large Language Models**_ ([Chu et al., 2023](https://arxiv.org/abs/2311.17667))
 
 ## Datasets
